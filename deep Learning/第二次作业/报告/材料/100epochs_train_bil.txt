@@ -1,0 +1,1554 @@
+训练集加载了 294 张有效图片
+验证集加载了 148 张有效图片
+
+Epoch: 1
+[epoch:1, iter:1] Loss: 3.214 | Acc: 3.232% | Acc_cls: 4.415% |Mean_iou: 0.011
+[epoch:1, iter:2] Loss: 3.190 | Acc: 3.945% | Acc_cls: 3.785% |Mean_iou: 0.012
+[epoch:1, iter:3] Loss: 3.189 | Acc: 2.960% | Acc_cls: 3.526% |Mean_iou: 0.014
+[epoch:1, iter:4] Loss: 3.194 | Acc: 3.143% | Acc_cls: 2.837% |Mean_iou: 0.011
+[epoch:1, iter:5] Loss: 3.195 | Acc: 3.187% | Acc_cls: 5.346% |Mean_iou: 0.012
+[epoch:1, iter:6] Loss: 3.185 | Acc: 5.328% | Acc_cls: 6.413% |Mean_iou: 0.021
+[epoch:1, iter:7] Loss: 3.175 | Acc: 5.502% | Acc_cls: 5.661% |Mean_iou: 0.016
+[epoch:1, iter:8] Loss: 3.166 | Acc: 7.015% | Acc_cls: 4.751% |Mean_iou: 0.019
+[epoch:1, iter:9] Loss: 3.157 | Acc: 6.562% | Acc_cls: 6.021% |Mean_iou: 0.022
+[epoch:1, iter:10] Loss: 3.148 | Acc: 7.838% | Acc_cls: 7.448% |Mean_iou: 0.024
+cost time: 9.675128
+Waiting Val...
+acc_epoch: 1.656% | acc_cls_epoch: 3.359% |mean_iou_epoch: 0.004
+save epoch 1 unet
+
+Epoch: 2
+[epoch:2, iter:11] Loss: 3.067 | Acc: 7.350% | Acc_cls: 7.274% |Mean_iou: 0.030
+[epoch:2, iter:12] Loss: 3.062 | Acc: 9.986% | Acc_cls: 8.676% |Mean_iou: 0.037
+[epoch:2, iter:13] Loss: 3.069 | Acc: 8.543% | Acc_cls: 8.923% |Mean_iou: 0.029
+[epoch:2, iter:14] Loss: 3.061 | Acc: 10.586% | Acc_cls: 7.909% |Mean_iou: 0.032
+[epoch:2, iter:15] Loss: 3.060 | Acc: 8.680% | Acc_cls: 8.663% |Mean_iou: 0.034
+[epoch:2, iter:16] Loss: 3.045 | Acc: 15.166% | Acc_cls: 10.985% |Mean_iou: 0.045
+[epoch:2, iter:17] Loss: 3.036 | Acc: 11.538% | Acc_cls: 11.101% |Mean_iou: 0.043
+[epoch:2, iter:18] Loss: 3.028 | Acc: 12.817% | Acc_cls: 10.112% |Mean_iou: 0.041
+[epoch:2, iter:19] Loss: 3.022 | Acc: 12.870% | Acc_cls: 12.245% |Mean_iou: 0.048
+[epoch:2, iter:20] Loss: 3.024 | Acc: 8.161% | Acc_cls: 15.710% |Mean_iou: 0.026
+cost time: 6.105727
+Waiting Val...
+acc_epoch: 5.575% | acc_cls_epoch: 6.691% |mean_iou_epoch: 0.021
+save epoch 2 unet
+
+Epoch: 3
+[epoch:3, iter:21] Loss: 2.890 | Acc: 20.716% | Acc_cls: 11.909% |Mean_iou: 0.059
+[epoch:3, iter:22] Loss: 2.928 | Acc: 14.459% | Acc_cls: 12.979% |Mean_iou: 0.050
+[epoch:3, iter:23] Loss: 2.926 | Acc: 17.140% | Acc_cls: 11.924% |Mean_iou: 0.049
+[epoch:3, iter:24] Loss: 2.934 | Acc: 11.709% | Acc_cls: 11.015% |Mean_iou: 0.041
+[epoch:3, iter:25] Loss: 2.925 | Acc: 17.574% | Acc_cls: 13.900% |Mean_iou: 0.055
+[epoch:3, iter:26] Loss: 2.927 | Acc: 14.494% | Acc_cls: 14.393% |Mean_iou: 0.051
+[epoch:3, iter:27] Loss: 2.924 | Acc: 16.711% | Acc_cls: 12.092% |Mean_iou: 0.049
+[epoch:3, iter:28] Loss: 2.910 | Acc: 21.949% | Acc_cls: 16.969% |Mean_iou: 0.072
+[epoch:3, iter:29] Loss: 2.909 | Acc: 18.229% | Acc_cls: 14.973% |Mean_iou: 0.059
+[epoch:3, iter:30] Loss: 2.936 | Acc: 2.622% | Acc_cls: 3.850% |Mean_iou: 0.009
+cost time: 6.062991
+Waiting Val...
+acc_epoch: 19.089% | acc_cls_epoch: 13.520% |mean_iou_epoch: 0.048
+save epoch 3 unet
+
+Epoch: 4
+[epoch:4, iter:31] Loss: 2.847 | Acc: 22.381% | Acc_cls: 15.995% |Mean_iou: 0.059
+[epoch:4, iter:32] Loss: 2.829 | Acc: 23.275% | Acc_cls: 13.696% |Mean_iou: 0.062
+[epoch:4, iter:33] Loss: 2.851 | Acc: 14.827% | Acc_cls: 16.671% |Mean_iou: 0.057
+[epoch:4, iter:34] Loss: 2.852 | Acc: 19.756% | Acc_cls: 15.153% |Mean_iou: 0.057
+[epoch:4, iter:35] Loss: 2.845 | Acc: 21.364% | Acc_cls: 14.775% |Mean_iou: 0.065
+[epoch:4, iter:36] Loss: 2.845 | Acc: 17.925% | Acc_cls: 15.720% |Mean_iou: 0.069
+[epoch:4, iter:37] Loss: 2.837 | Acc: 20.725% | Acc_cls: 15.995% |Mean_iou: 0.069
+[epoch:4, iter:38] Loss: 2.831 | Acc: 21.905% | Acc_cls: 17.505% |Mean_iou: 0.075
+[epoch:4, iter:39] Loss: 2.828 | Acc: 19.131% | Acc_cls: 16.453% |Mean_iou: 0.068
+[epoch:4, iter:40] Loss: 2.817 | Acc: 24.095% | Acc_cls: 24.936% |Mean_iou: 0.076
+cost time: 6.072290
+Waiting Val...
+acc_epoch: 24.417% | acc_cls_epoch: 15.976% |mean_iou_epoch: 0.063
+save epoch 4 unet
+
+Epoch: 5
+[epoch:5, iter:41] Loss: 2.694 | Acc: 27.146% | Acc_cls: 15.763% |Mean_iou: 0.075
+[epoch:5, iter:42] Loss: 2.703 | Acc: 26.351% | Acc_cls: 19.478% |Mean_iou: 0.092
+[epoch:5, iter:43] Loss: 2.731 | Acc: 22.027% | Acc_cls: 15.892% |Mean_iou: 0.073
+[epoch:5, iter:44] Loss: 2.731 | Acc: 26.506% | Acc_cls: 15.712% |Mean_iou: 0.078
+[epoch:5, iter:45] Loss: 2.736 | Acc: 21.177% | Acc_cls: 16.859% |Mean_iou: 0.064
+[epoch:5, iter:46] Loss: 2.731 | Acc: 24.539% | Acc_cls: 21.130% |Mean_iou: 0.084
+[epoch:5, iter:47] Loss: 2.745 | Acc: 17.710% | Acc_cls: 17.632% |Mean_iou: 0.063
+[epoch:5, iter:48] Loss: 2.745 | Acc: 25.013% | Acc_cls: 20.624% |Mean_iou: 0.085
+[epoch:5, iter:49] Loss: 2.748 | Acc: 21.536% | Acc_cls: 17.497% |Mean_iou: 0.067
+[epoch:5, iter:50] Loss: 2.771 | Acc: 16.488% | Acc_cls: 13.166% |Mean_iou: 0.038
+cost time: 6.103050
+Waiting Val...
+acc_epoch: 27.656% | acc_cls_epoch: 18.242% |mean_iou_epoch: 0.079
+save epoch 5 unet
+
+Epoch: 6
+[epoch:6, iter:51] Loss: 2.699 | Acc: 25.190% | Acc_cls: 18.733% |Mean_iou: 0.080
+[epoch:6, iter:52] Loss: 2.681 | Acc: 29.846% | Acc_cls: 19.541% |Mean_iou: 0.086
+[epoch:6, iter:53] Loss: 2.702 | Acc: 25.529% | Acc_cls: 18.785% |Mean_iou: 0.086
+[epoch:6, iter:54] Loss: 2.709 | Acc: 22.630% | Acc_cls: 20.227% |Mean_iou: 0.083
+[epoch:6, iter:55] Loss: 2.708 | Acc: 24.393% | Acc_cls: 19.106% |Mean_iou: 0.076
+[epoch:6, iter:56] Loss: 2.713 | Acc: 22.823% | Acc_cls: 16.694% |Mean_iou: 0.071
+[epoch:6, iter:57] Loss: 2.700 | Acc: 29.759% | Acc_cls: 21.107% |Mean_iou: 0.098
+[epoch:6, iter:58] Loss: 2.707 | Acc: 20.660% | Acc_cls: 18.383% |Mean_iou: 0.071
+[epoch:6, iter:59] Loss: 2.692 | Acc: 31.371% | Acc_cls: 19.685% |Mean_iou: 0.105
+[epoch:6, iter:60] Loss: 2.689 | Acc: 27.190% | Acc_cls: 27.009% |Mean_iou: 0.070
+cost time: 6.062247
+Waiting Val...
+acc_epoch: 29.447% | acc_cls_epoch: 19.613% |mean_iou_epoch: 0.087
+save epoch 6 unet
+
+Epoch: 7
+[epoch:7, iter:61] Loss: 2.614 | Acc: 29.616% | Acc_cls: 20.198% |Mean_iou: 0.093
+[epoch:7, iter:62] Loss: 2.661 | Acc: 24.001% | Acc_cls: 20.710% |Mean_iou: 0.089
+[epoch:7, iter:63] Loss: 2.625 | Acc: 35.078% | Acc_cls: 21.070% |Mean_iou: 0.111
+[epoch:7, iter:64] Loss: 2.627 | Acc: 27.881% | Acc_cls: 20.248% |Mean_iou: 0.097
+[epoch:7, iter:65] Loss: 2.627 | Acc: 28.695% | Acc_cls: 20.838% |Mean_iou: 0.087
+[epoch:7, iter:66] Loss: 2.624 | Acc: 30.952% | Acc_cls: 17.602% |Mean_iou: 0.089
+[epoch:7, iter:67] Loss: 2.621 | Acc: 29.247% | Acc_cls: 22.562% |Mean_iou: 0.108
+[epoch:7, iter:68] Loss: 2.625 | Acc: 26.743% | Acc_cls: 21.718% |Mean_iou: 0.085
+[epoch:7, iter:69] Loss: 2.637 | Acc: 24.390% | Acc_cls: 17.388% |Mean_iou: 0.071
+[epoch:7, iter:70] Loss: 2.648 | Acc: 27.937% | Acc_cls: 16.343% |Mean_iou: 0.061
+cost time: 6.067363
+Waiting Val...
+acc_epoch: 30.951% | acc_cls_epoch: 20.645% |mean_iou_epoch: 0.093
+save epoch 7 unet
+
+Epoch: 8
+[epoch:8, iter:71] Loss: 2.633 | Acc: 30.575% | Acc_cls: 20.454% |Mean_iou: 0.097
+[epoch:8, iter:72] Loss: 2.648 | Acc: 27.160% | Acc_cls: 20.425% |Mean_iou: 0.086
+[epoch:8, iter:73] Loss: 2.631 | Acc: 28.570% | Acc_cls: 21.598% |Mean_iou: 0.088
+[epoch:8, iter:74] Loss: 2.628 | Acc: 28.629% | Acc_cls: 21.477% |Mean_iou: 0.094
+[epoch:8, iter:75] Loss: 2.611 | Acc: 33.357% | Acc_cls: 21.290% |Mean_iou: 0.109
+[epoch:8, iter:76] Loss: 2.625 | Acc: 23.497% | Acc_cls: 17.511% |Mean_iou: 0.078
+[epoch:8, iter:77] Loss: 2.601 | Acc: 39.811% | Acc_cls: 23.170% |Mean_iou: 0.129
+[epoch:8, iter:78] Loss: 2.586 | Acc: 35.693% | Acc_cls: 23.211% |Mean_iou: 0.112
+[epoch:8, iter:79] Loss: 2.590 | Acc: 26.804% | Acc_cls: 20.837% |Mean_iou: 0.096
+[epoch:8, iter:80] Loss: 2.627 | Acc: 17.142% | Acc_cls: 23.667% |Mean_iou: 0.038
+cost time: 6.086224
+Waiting Val...
+acc_epoch: 32.761% | acc_cls_epoch: 21.901% |mean_iou_epoch: 0.101
+save epoch 8 unet
+
+Epoch: 9
+[epoch:9, iter:81] Loss: 2.553 | Acc: 31.425% | Acc_cls: 24.821% |Mean_iou: 0.120
+[epoch:9, iter:82] Loss: 2.560 | Acc: 35.230% | Acc_cls: 22.405% |Mean_iou: 0.122
+[epoch:9, iter:83] Loss: 2.540 | Acc: 33.493% | Acc_cls: 21.892% |Mean_iou: 0.103
+[epoch:9, iter:84] Loss: 2.533 | Acc: 32.196% | Acc_cls: 20.875% |Mean_iou: 0.112
+[epoch:9, iter:85] Loss: 2.529 | Acc: 33.378% | Acc_cls: 24.506% |Mean_iou: 0.111
+[epoch:9, iter:86] Loss: 2.547 | Acc: 26.535% | Acc_cls: 21.793% |Mean_iou: 0.080
+[epoch:9, iter:87] Loss: 2.538 | Acc: 35.637% | Acc_cls: 24.433% |Mean_iou: 0.123
+[epoch:9, iter:88] Loss: 2.532 | Acc: 36.831% | Acc_cls: 22.122% |Mean_iou: 0.123
+[epoch:9, iter:89] Loss: 2.537 | Acc: 28.388% | Acc_cls: 21.029% |Mean_iou: 0.085
+[epoch:9, iter:90] Loss: 2.564 | Acc: 22.345% | Acc_cls: 22.737% |Mean_iou: 0.044
+cost time: 6.045097
+Waiting Val...
+acc_epoch: 34.853% | acc_cls_epoch: 22.489% |mean_iou_epoch: 0.106
+save epoch 9 unet
+
+Epoch: 10
+[epoch:10, iter:91] Loss: 2.667 | Acc: 25.514% | Acc_cls: 20.007% |Mean_iou: 0.070
+[epoch:10, iter:92] Loss: 2.569 | Acc: 34.153% | Acc_cls: 22.404% |Mean_iou: 0.119
+[epoch:10, iter:93] Loss: 2.513 | Acc: 38.077% | Acc_cls: 23.798% |Mean_iou: 0.125
+[epoch:10, iter:94] Loss: 2.505 | Acc: 34.086% | Acc_cls: 23.704% |Mean_iou: 0.116
+[epoch:10, iter:95] Loss: 2.496 | Acc: 35.800% | Acc_cls: 21.369% |Mean_iou: 0.099
+[epoch:10, iter:96] Loss: 2.515 | Acc: 28.372% | Acc_cls: 21.077% |Mean_iou: 0.091
+[epoch:10, iter:97] Loss: 2.505 | Acc: 36.825% | Acc_cls: 23.568% |Mean_iou: 0.125
+[epoch:10, iter:98] Loss: 2.513 | Acc: 32.053% | Acc_cls: 23.489% |Mean_iou: 0.101
+[epoch:10, iter:99] Loss: 2.508 | Acc: 35.982% | Acc_cls: 20.774% |Mean_iou: 0.105
+[epoch:10, iter:100] Loss: 2.509 | Acc: 33.171% | Acc_cls: 28.488% |Mean_iou: 0.095
+cost time: 6.115133
+Waiting Val...
+acc_epoch: 35.986% | acc_cls_epoch: 23.431% |mean_iou_epoch: 0.112
+save epoch 10 unet
+
+Epoch: 11
+[epoch:11, iter:101] Loss: 2.534 | Acc: 30.438% | Acc_cls: 19.416% |Mean_iou: 0.084
+[epoch:11, iter:102] Loss: 2.519 | Acc: 31.637% | Acc_cls: 19.518% |Mean_iou: 0.092
+[epoch:11, iter:103] Loss: 2.481 | Acc: 37.811% | Acc_cls: 23.192% |Mean_iou: 0.125
+[epoch:11, iter:104] Loss: 2.433 | Acc: 45.285% | Acc_cls: 23.494% |Mean_iou: 0.141
+[epoch:11, iter:105] Loss: 2.444 | Acc: 33.915% | Acc_cls: 21.912% |Mean_iou: 0.125
+[epoch:11, iter:106] Loss: 2.477 | Acc: 27.273% | Acc_cls: 24.424% |Mean_iou: 0.098
+[epoch:11, iter:107] Loss: 2.480 | Acc: 32.921% | Acc_cls: 21.270% |Mean_iou: 0.108
+[epoch:11, iter:108] Loss: 2.473 | Acc: 37.489% | Acc_cls: 27.600% |Mean_iou: 0.132
+[epoch:11, iter:109] Loss: 2.477 | Acc: 33.433% | Acc_cls: 25.609% |Mean_iou: 0.131
+[epoch:11, iter:110] Loss: 2.462 | Acc: 46.622% | Acc_cls: 27.472% |Mean_iou: 0.099
+cost time: 6.202082
+Waiting Val...
+acc_epoch: 37.575% | acc_cls_epoch: 23.917% |mean_iou_epoch: 0.117
+save epoch 11 unet
+
+Epoch: 12
+[epoch:12, iter:111] Loss: 2.428 | Acc: 37.609% | Acc_cls: 27.383% |Mean_iou: 0.124
+[epoch:12, iter:112] Loss: 2.449 | Acc: 34.581% | Acc_cls: 22.660% |Mean_iou: 0.118
+[epoch:12, iter:113] Loss: 2.415 | Acc: 38.286% | Acc_cls: 21.939% |Mean_iou: 0.121
+[epoch:12, iter:114] Loss: 2.431 | Acc: 34.100% | Acc_cls: 25.270% |Mean_iou: 0.120
+[epoch:12, iter:115] Loss: 2.418 | Acc: 38.536% | Acc_cls: 25.207% |Mean_iou: 0.125
+[epoch:12, iter:116] Loss: 2.413 | Acc: 39.440% | Acc_cls: 27.021% |Mean_iou: 0.154
+[epoch:12, iter:117] Loss: 2.403 | Acc: 41.963% | Acc_cls: 24.007% |Mean_iou: 0.126
+[epoch:12, iter:118] Loss: 2.417 | Acc: 31.638% | Acc_cls: 21.802% |Mean_iou: 0.100
+[epoch:12, iter:119] Loss: 2.421 | Acc: 35.070% | Acc_cls: 21.355% |Mean_iou: 0.124
+[epoch:12, iter:120] Loss: 2.447 | Acc: 25.743% | Acc_cls: 13.169% |Mean_iou: 0.036
+cost time: 6.228293
+Waiting Val...
+acc_epoch: 39.066% | acc_cls_epoch: 24.507% |mean_iou_epoch: 0.122
+save epoch 12 unet
+
+Epoch: 13
+[epoch:13, iter:121] Loss: 2.394 | Acc: 38.402% | Acc_cls: 20.385% |Mean_iou: 0.116
+[epoch:13, iter:122] Loss: 2.380 | Acc: 41.821% | Acc_cls: 27.241% |Mean_iou: 0.164
+[epoch:13, iter:123] Loss: 2.407 | Acc: 32.917% | Acc_cls: 24.922% |Mean_iou: 0.107
+[epoch:13, iter:124] Loss: 2.402 | Acc: 39.562% | Acc_cls: 24.012% |Mean_iou: 0.129
+[epoch:13, iter:125] Loss: 2.389 | Acc: 39.277% | Acc_cls: 25.518% |Mean_iou: 0.147
+[epoch:13, iter:126] Loss: 2.405 | Acc: 32.703% | Acc_cls: 20.639% |Mean_iou: 0.106
+[epoch:13, iter:127] Loss: 2.413 | Acc: 34.160% | Acc_cls: 22.125% |Mean_iou: 0.122
+[epoch:13, iter:128] Loss: 2.408 | Acc: 36.284% | Acc_cls: 23.860% |Mean_iou: 0.110
+[epoch:13, iter:129] Loss: 2.400 | Acc: 39.293% | Acc_cls: 20.033% |Mean_iou: 0.113
+[epoch:13, iter:130] Loss: 2.417 | Acc: 31.298% | Acc_cls: 28.199% |Mean_iou: 0.089
+cost time: 7.887183
+Waiting Val...
+acc_epoch: 39.407% | acc_cls_epoch: 24.672% |mean_iou_epoch: 0.124
+save epoch 13 unet
+
+Epoch: 14
+[epoch:14, iter:131] Loss: 2.274 | Acc: 43.052% | Acc_cls: 22.075% |Mean_iou: 0.130
+[epoch:14, iter:132] Loss: 2.282 | Acc: 41.991% | Acc_cls: 27.835% |Mean_iou: 0.146
+[epoch:14, iter:133] Loss: 2.335 | Acc: 31.780% | Acc_cls: 24.615% |Mean_iou: 0.101
+[epoch:14, iter:134] Loss: 2.360 | Acc: 36.519% | Acc_cls: 24.011% |Mean_iou: 0.135
+[epoch:14, iter:135] Loss: 2.352 | Acc: 40.475% | Acc_cls: 26.342% |Mean_iou: 0.134
+[epoch:14, iter:136] Loss: 2.365 | Acc: 35.699% | Acc_cls: 26.444% |Mean_iou: 0.111
+[epoch:14, iter:137] Loss: 2.364 | Acc: 37.218% | Acc_cls: 24.308% |Mean_iou: 0.121
+[epoch:14, iter:138] Loss: 2.371 | Acc: 36.251% | Acc_cls: 23.257% |Mean_iou: 0.125
+[epoch:14, iter:139] Loss: 2.361 | Acc: 41.247% | Acc_cls: 25.010% |Mean_iou: 0.135
+[epoch:14, iter:140] Loss: 2.377 | Acc: 31.383% | Acc_cls: 20.113% |Mean_iou: 0.076
+cost time: 6.214034
+Waiting Val...
+acc_epoch: 41.099% | acc_cls_epoch: 25.469% |mean_iou_epoch: 0.130
+save epoch 14 unet
+
+Epoch: 15
+[epoch:15, iter:141] Loss: 2.362 | Acc: 36.149% | Acc_cls: 20.571% |Mean_iou: 0.115
+[epoch:15, iter:142] Loss: 2.376 | Acc: 37.975% | Acc_cls: 30.586% |Mean_iou: 0.147
+[epoch:15, iter:143] Loss: 2.353 | Acc: 42.165% | Acc_cls: 28.307% |Mean_iou: 0.152
+[epoch:15, iter:144] Loss: 2.353 | Acc: 37.293% | Acc_cls: 27.465% |Mean_iou: 0.136
+[epoch:15, iter:145] Loss: 2.344 | Acc: 39.911% | Acc_cls: 25.182% |Mean_iou: 0.127
+[epoch:15, iter:146] Loss: 2.329 | Acc: 42.885% | Acc_cls: 26.245% |Mean_iou: 0.162
+[epoch:15, iter:147] Loss: 2.329 | Acc: 38.634% | Acc_cls: 24.495% |Mean_iou: 0.133
+[epoch:15, iter:148] Loss: 2.326 | Acc: 39.481% | Acc_cls: 23.393% |Mean_iou: 0.116
+[epoch:15, iter:149] Loss: 2.327 | Acc: 39.336% | Acc_cls: 22.795% |Mean_iou: 0.111
+[epoch:15, iter:150] Loss: 2.325 | Acc: 39.875% | Acc_cls: 33.382% |Mean_iou: 0.080
+cost time: 6.246315
+Waiting Val...
+acc_epoch: 41.664% | acc_cls_epoch: 26.251% |mean_iou_epoch: 0.139
+save epoch 15 unet
+
+Epoch: 16
+[epoch:16, iter:151] Loss: 2.329 | Acc: 36.825% | Acc_cls: 21.268% |Mean_iou: 0.115
+[epoch:16, iter:152] Loss: 2.278 | Acc: 44.168% | Acc_cls: 26.405% |Mean_iou: 0.161
+[epoch:16, iter:153] Loss: 2.297 | Acc: 37.550% | Acc_cls: 28.656% |Mean_iou: 0.123
+[epoch:16, iter:154] Loss: 2.296 | Acc: 41.571% | Acc_cls: 26.233% |Mean_iou: 0.123
+[epoch:16, iter:155] Loss: 2.306 | Acc: 37.286% | Acc_cls: 22.673% |Mean_iou: 0.116
+[epoch:16, iter:156] Loss: 2.325 | Acc: 34.851% | Acc_cls: 26.200% |Mean_iou: 0.139
+[epoch:16, iter:157] Loss: 2.309 | Acc: 46.018% | Acc_cls: 30.589% |Mean_iou: 0.190
+[epoch:16, iter:158] Loss: 2.301 | Acc: 41.517% | Acc_cls: 21.785% |Mean_iou: 0.137
+[epoch:16, iter:159] Loss: 2.295 | Acc: 43.050% | Acc_cls: 27.343% |Mean_iou: 0.160
+[epoch:16, iter:160] Loss: 2.297 | Acc: 37.427% | Acc_cls: 32.808% |Mean_iou: 0.110
+cost time: 6.258828
+Waiting Val...
+acc_epoch: 42.422% | acc_cls_epoch: 26.308% |mean_iou_epoch: 0.138
+
+Epoch: 17
+[epoch:17, iter:161] Loss: 2.218 | Acc: 43.082% | Acc_cls: 25.083% |Mean_iou: 0.136
+[epoch:17, iter:162] Loss: 2.229 | Acc: 43.279% | Acc_cls: 31.250% |Mean_iou: 0.161
+[epoch:17, iter:163] Loss: 2.246 | Acc: 40.581% | Acc_cls: 28.507% |Mean_iou: 0.140
+[epoch:17, iter:164] Loss: 2.280 | Acc: 36.933% | Acc_cls: 24.952% |Mean_iou: 0.117
+[epoch:17, iter:165] Loss: 2.287 | Acc: 37.362% | Acc_cls: 23.377% |Mean_iou: 0.122
+[epoch:17, iter:166] Loss: 2.267 | Acc: 45.888% | Acc_cls: 29.922% |Mean_iou: 0.172
+[epoch:17, iter:167] Loss: 2.268 | Acc: 40.826% | Acc_cls: 25.167% |Mean_iou: 0.131
+[epoch:17, iter:168] Loss: 2.268 | Acc: 39.842% | Acc_cls: 23.663% |Mean_iou: 0.136
+[epoch:17, iter:169] Loss: 2.269 | Acc: 41.354% | Acc_cls: 29.082% |Mean_iou: 0.164
+[epoch:17, iter:170] Loss: 2.277 | Acc: 44.242% | Acc_cls: 40.519% |Mean_iou: 0.158
+cost time: 6.329646
+Waiting Val...
+acc_epoch: 42.632% | acc_cls_epoch: 26.704% |mean_iou_epoch: 0.140
+save epoch 17 unet
+
+Epoch: 18
+[epoch:18, iter:171] Loss: 2.308 | Acc: 36.541% | Acc_cls: 27.544% |Mean_iou: 0.137
+[epoch:18, iter:172] Loss: 2.316 | Acc: 35.692% | Acc_cls: 22.343% |Mean_iou: 0.122
+[epoch:18, iter:173] Loss: 2.274 | Acc: 44.392% | Acc_cls: 27.737% |Mean_iou: 0.142
+[epoch:18, iter:174] Loss: 2.266 | Acc: 41.593% | Acc_cls: 27.372% |Mean_iou: 0.168
+[epoch:18, iter:175] Loss: 2.263 | Acc: 41.063% | Acc_cls: 30.097% |Mean_iou: 0.133
+[epoch:18, iter:176] Loss: 2.247 | Acc: 46.299% | Acc_cls: 27.283% |Mean_iou: 0.125
+[epoch:18, iter:177] Loss: 2.234 | Acc: 44.544% | Acc_cls: 27.596% |Mean_iou: 0.186
+[epoch:18, iter:178] Loss: 2.251 | Acc: 37.583% | Acc_cls: 26.367% |Mean_iou: 0.134
+[epoch:18, iter:179] Loss: 2.249 | Acc: 43.964% | Acc_cls: 28.588% |Mean_iou: 0.169
+[epoch:18, iter:180] Loss: 2.247 | Acc: 42.147% | Acc_cls: 30.308% |Mean_iou: 0.107
+cost time: 6.271020
+Waiting Val...
+acc_epoch: 43.893% | acc_cls_epoch: 27.933% |mean_iou_epoch: 0.150
+save epoch 18 unet
+
+Epoch: 19
+[epoch:19, iter:181] Loss: 2.151 | Acc: 47.317% | Acc_cls: 30.128% |Mean_iou: 0.174
+[epoch:19, iter:182] Loss: 2.207 | Acc: 39.556% | Acc_cls: 23.222% |Mean_iou: 0.131
+[epoch:19, iter:183] Loss: 2.192 | Acc: 44.113% | Acc_cls: 28.399% |Mean_iou: 0.182
+[epoch:19, iter:184] Loss: 2.201 | Acc: 43.563% | Acc_cls: 27.316% |Mean_iou: 0.130
+[epoch:19, iter:185] Loss: 2.182 | Acc: 46.238% | Acc_cls: 27.380% |Mean_iou: 0.171
+[epoch:19, iter:186] Loss: 2.167 | Acc: 49.487% | Acc_cls: 29.527% |Mean_iou: 0.176
+[epoch:19, iter:187] Loss: 2.193 | Acc: 33.999% | Acc_cls: 29.405% |Mean_iou: 0.124
+[epoch:19, iter:188] Loss: 2.193 | Acc: 43.994% | Acc_cls: 32.667% |Mean_iou: 0.208
+[epoch:19, iter:189] Loss: 2.200 | Acc: 37.299% | Acc_cls: 25.987% |Mean_iou: 0.141
+[epoch:19, iter:190] Loss: 2.209 | Acc: 37.824% | Acc_cls: 28.679% |Mean_iou: 0.104
+cost time: 7.270362
+Waiting Val...
+acc_epoch: 43.775% | acc_cls_epoch: 27.837% |mean_iou_epoch: 0.147
+
+Epoch: 20
+[epoch:20, iter:191] Loss: 2.238 | Acc: 41.292% | Acc_cls: 30.088% |Mean_iou: 0.164
+[epoch:20, iter:192] Loss: 2.155 | Acc: 50.173% | Acc_cls: 33.977% |Mean_iou: 0.193
+[epoch:20, iter:193] Loss: 2.158 | Acc: 44.664% | Acc_cls: 33.558% |Mean_iou: 0.175
+[epoch:20, iter:194] Loss: 2.160 | Acc: 43.389% | Acc_cls: 27.595% |Mean_iou: 0.156
+[epoch:20, iter:195] Loss: 2.159 | Acc: 43.635% | Acc_cls: 30.753% |Mean_iou: 0.149
+[epoch:20, iter:196] Loss: 2.186 | Acc: 34.938% | Acc_cls: 25.032% |Mean_iou: 0.130
+[epoch:20, iter:197] Loss: 2.189 | Acc: 43.230% | Acc_cls: 29.618% |Mean_iou: 0.171
+[epoch:20, iter:198] Loss: 2.189 | Acc: 44.384% | Acc_cls: 27.532% |Mean_iou: 0.146
+[epoch:20, iter:199] Loss: 2.181 | Acc: 43.800% | Acc_cls: 29.027% |Mean_iou: 0.162
+[epoch:20, iter:200] Loss: 2.192 | Acc: 42.042% | Acc_cls: 38.450% |Mean_iou: 0.150
+cost time: 6.399745
+Waiting Val...
+acc_epoch: 44.317% | acc_cls_epoch: 28.133% |mean_iou_epoch: 0.152
+save epoch 20 unet
+
+Epoch: 21
+[epoch:21, iter:201] Loss: 2.310 | Acc: 33.862% | Acc_cls: 28.150% |Mean_iou: 0.117
+[epoch:21, iter:202] Loss: 2.197 | Acc: 46.333% | Acc_cls: 27.611% |Mean_iou: 0.185
+[epoch:21, iter:203] Loss: 2.172 | Acc: 43.678% | Acc_cls: 25.728% |Mean_iou: 0.149
+[epoch:21, iter:204] Loss: 2.170 | Acc: 42.165% | Acc_cls: 25.154% |Mean_iou: 0.148
+[epoch:21, iter:205] Loss: 2.164 | Acc: 45.998% | Acc_cls: 31.594% |Mean_iou: 0.158
+[epoch:21, iter:206] Loss: 2.167 | Acc: 45.344% | Acc_cls: 28.976% |Mean_iou: 0.155
+[epoch:21, iter:207] Loss: 2.155 | Acc: 48.324% | Acc_cls: 29.765% |Mean_iou: 0.170
+[epoch:21, iter:208] Loss: 2.158 | Acc: 45.169% | Acc_cls: 32.102% |Mean_iou: 0.163
+[epoch:21, iter:209] Loss: 2.165 | Acc: 37.620% | Acc_cls: 26.161% |Mean_iou: 0.131
+[epoch:21, iter:210] Loss: 2.147 | Acc: 52.804% | Acc_cls: 45.563% |Mean_iou: 0.164
+cost time: 6.162825
+Waiting Val...
+acc_epoch: 44.332% | acc_cls_epoch: 28.158% |mean_iou_epoch: 0.151
+
+Epoch: 22
+[epoch:22, iter:211] Loss: 2.350 | Acc: 36.566% | Acc_cls: 26.857% |Mean_iou: 0.119
+[epoch:22, iter:212] Loss: 2.192 | Acc: 51.150% | Acc_cls: 33.099% |Mean_iou: 0.189
+[epoch:22, iter:213] Loss: 2.137 | Acc: 49.129% | Acc_cls: 31.302% |Mean_iou: 0.206
+[epoch:22, iter:214] Loss: 2.124 | Acc: 45.069% | Acc_cls: 29.779% |Mean_iou: 0.153
+[epoch:22, iter:215] Loss: 2.111 | Acc: 48.869% | Acc_cls: 31.023% |Mean_iou: 0.185
+[epoch:22, iter:216] Loss: 2.109 | Acc: 43.776% | Acc_cls: 25.766% |Mean_iou: 0.156
+[epoch:22, iter:217] Loss: 2.100 | Acc: 46.175% | Acc_cls: 34.224% |Mean_iou: 0.178
+[epoch:22, iter:218] Loss: 2.119 | Acc: 38.798% | Acc_cls: 30.795% |Mean_iou: 0.156
+[epoch:22, iter:219] Loss: 2.120 | Acc: 42.799% | Acc_cls: 24.777% |Mean_iou: 0.145
+[epoch:22, iter:220] Loss: 2.141 | Acc: 33.471% | Acc_cls: 26.244% |Mean_iou: 0.085
+cost time: 6.254528
+Waiting Val...
+acc_epoch: 44.291% | acc_cls_epoch: 28.281% |mean_iou_epoch: 0.156
+save epoch 22 unet
+
+Epoch: 23
+[epoch:23, iter:221] Loss: 2.071 | Acc: 46.980% | Acc_cls: 30.585% |Mean_iou: 0.174
+[epoch:23, iter:222] Loss: 2.073 | Acc: 47.339% | Acc_cls: 27.474% |Mean_iou: 0.177
+[epoch:23, iter:223] Loss: 2.041 | Acc: 50.298% | Acc_cls: 31.272% |Mean_iou: 0.199
+[epoch:23, iter:224] Loss: 2.064 | Acc: 44.907% | Acc_cls: 29.314% |Mean_iou: 0.196
+[epoch:23, iter:225] Loss: 2.067 | Acc: 44.847% | Acc_cls: 29.504% |Mean_iou: 0.170
+[epoch:23, iter:226] Loss: 2.085 | Acc: 39.818% | Acc_cls: 24.032% |Mean_iou: 0.149
+[epoch:23, iter:227] Loss: 2.075 | Acc: 48.071% | Acc_cls: 26.267% |Mean_iou: 0.177
+[epoch:23, iter:228] Loss: 2.080 | Acc: 43.908% | Acc_cls: 32.597% |Mean_iou: 0.169
+[epoch:23, iter:229] Loss: 2.085 | Acc: 42.990% | Acc_cls: 28.554% |Mean_iou: 0.135
+[epoch:23, iter:230] Loss: 2.084 | Acc: 50.940% | Acc_cls: 51.215% |Mean_iou: 0.144
+cost time: 6.183735
+Waiting Val...
+acc_epoch: 45.389% | acc_cls_epoch: 29.321% |mean_iou_epoch: 0.161
+save epoch 23 unet
+
+Epoch: 24
+[epoch:24, iter:231] Loss: 1.974 | Acc: 53.095% | Acc_cls: 31.283% |Mean_iou: 0.210
+[epoch:24, iter:232] Loss: 1.973 | Acc: 50.055% | Acc_cls: 27.349% |Mean_iou: 0.178
+[epoch:24, iter:233] Loss: 1.993 | Acc: 49.677% | Acc_cls: 36.993% |Mean_iou: 0.221
+[epoch:24, iter:234] Loss: 2.015 | Acc: 45.123% | Acc_cls: 27.171% |Mean_iou: 0.163
+[epoch:24, iter:235] Loss: 2.034 | Acc: 42.575% | Acc_cls: 28.226% |Mean_iou: 0.135
+[epoch:24, iter:236] Loss: 2.041 | Acc: 45.650% | Acc_cls: 30.502% |Mean_iou: 0.169
+[epoch:24, iter:237] Loss: 2.051 | Acc: 45.407% | Acc_cls: 33.212% |Mean_iou: 0.203
+[epoch:24, iter:238] Loss: 2.059 | Acc: 40.825% | Acc_cls: 25.308% |Mean_iou: 0.136
+[epoch:24, iter:239] Loss: 2.060 | Acc: 45.131% | Acc_cls: 32.271% |Mean_iou: 0.175
+[epoch:24, iter:240] Loss: 2.066 | Acc: 40.345% | Acc_cls: 34.253% |Mean_iou: 0.109
+cost time: 6.593901
+Waiting Val...
+acc_epoch: 45.018% | acc_cls_epoch: 29.167% |mean_iou_epoch: 0.161
+
+Epoch: 25
+[epoch:25, iter:241] Loss: 2.017 | Acc: 47.589% | Acc_cls: 31.211% |Mean_iou: 0.194
+[epoch:25, iter:242] Loss: 2.008 | Acc: 49.307% | Acc_cls: 33.131% |Mean_iou: 0.202
+[epoch:25, iter:243] Loss: 1.994 | Acc: 53.221% | Acc_cls: 31.901% |Mean_iou: 0.220
+[epoch:25, iter:244] Loss: 2.017 | Acc: 42.829% | Acc_cls: 26.573% |Mean_iou: 0.154
+[epoch:25, iter:245] Loss: 2.021 | Acc: 46.799% | Acc_cls: 26.083% |Mean_iou: 0.145
+[epoch:25, iter:246] Loss: 2.027 | Acc: 48.093% | Acc_cls: 30.820% |Mean_iou: 0.178
+[epoch:25, iter:247] Loss: 2.042 | Acc: 41.340% | Acc_cls: 26.729% |Mean_iou: 0.148
+[epoch:25, iter:248] Loss: 2.051 | Acc: 42.764% | Acc_cls: 27.540% |Mean_iou: 0.146
+[epoch:25, iter:249] Loss: 2.058 | Acc: 42.786% | Acc_cls: 30.302% |Mean_iou: 0.154
+[epoch:25, iter:250] Loss: 2.079 | Acc: 39.528% | Acc_cls: 35.873% |Mean_iou: 0.120
+cost time: 6.238229
+Waiting Val...
+acc_epoch: 46.876% | acc_cls_epoch: 30.299% |mean_iou_epoch: 0.166
+save epoch 25 unet
+
+Epoch: 26
+[epoch:26, iter:251] Loss: 2.071 | Acc: 44.338% | Acc_cls: 31.695% |Mean_iou: 0.174
+[epoch:26, iter:252] Loss: 2.054 | Acc: 45.896% | Acc_cls: 29.361% |Mean_iou: 0.168
+[epoch:26, iter:253] Loss: 2.075 | Acc: 43.730% | Acc_cls: 31.954% |Mean_iou: 0.165
+[epoch:26, iter:254] Loss: 2.058 | Acc: 47.760% | Acc_cls: 25.665% |Mean_iou: 0.162
+[epoch:26, iter:255] Loss: 2.055 | Acc: 45.454% | Acc_cls: 29.876% |Mean_iou: 0.159
+[epoch:26, iter:256] Loss: 2.052 | Acc: 48.060% | Acc_cls: 31.863% |Mean_iou: 0.193
+[epoch:26, iter:257] Loss: 2.038 | Acc: 50.126% | Acc_cls: 35.075% |Mean_iou: 0.216
+[epoch:26, iter:258] Loss: 2.036 | Acc: 49.562% | Acc_cls: 34.641% |Mean_iou: 0.188
+[epoch:26, iter:259] Loss: 2.038 | Acc: 46.873% | Acc_cls: 32.901% |Mean_iou: 0.182
+[epoch:26, iter:260] Loss: 2.031 | Acc: 49.212% | Acc_cls: 39.689% |Mean_iou: 0.148
+cost time: 6.128758
+Waiting Val...
+acc_epoch: 46.820% | acc_cls_epoch: 30.501% |mean_iou_epoch: 0.173
+save epoch 26 unet
+
+Epoch: 27
+[epoch:27, iter:261] Loss: 2.121 | Acc: 41.462% | Acc_cls: 27.855% |Mean_iou: 0.154
+[epoch:27, iter:262] Loss: 2.047 | Acc: 49.542% | Acc_cls: 31.107% |Mean_iou: 0.203
+[epoch:27, iter:263] Loss: 2.032 | Acc: 50.801% | Acc_cls: 31.385% |Mean_iou: 0.218
+[epoch:27, iter:264] Loss: 2.037 | Acc: 45.649% | Acc_cls: 30.800% |Mean_iou: 0.173
+[epoch:27, iter:265] Loss: 2.003 | Acc: 53.716% | Acc_cls: 33.926% |Mean_iou: 0.212
+[epoch:27, iter:266] Loss: 2.019 | Acc: 40.552% | Acc_cls: 23.761% |Mean_iou: 0.134
+[epoch:27, iter:267] Loss: 2.011 | Acc: 49.564% | Acc_cls: 34.069% |Mean_iou: 0.187
+[epoch:27, iter:268] Loss: 1.995 | Acc: 54.099% | Acc_cls: 35.419% |Mean_iou: 0.188
+[epoch:27, iter:269] Loss: 2.006 | Acc: 41.463% | Acc_cls: 32.290% |Mean_iou: 0.177
+[epoch:27, iter:270] Loss: 2.038 | Acc: 36.553% | Acc_cls: 27.400% |Mean_iou: 0.095
+cost time: 6.131706
+Waiting Val...
+acc_epoch: 47.133% | acc_cls_epoch: 29.992% |mean_iou_epoch: 0.172
+
+Epoch: 28
+[epoch:28, iter:271] Loss: 1.939 | Acc: 51.842% | Acc_cls: 35.828% |Mean_iou: 0.237
+[epoch:28, iter:272] Loss: 1.979 | Acc: 47.907% | Acc_cls: 32.328% |Mean_iou: 0.178
+[epoch:28, iter:273] Loss: 1.982 | Acc: 45.518% | Acc_cls: 29.109% |Mean_iou: 0.164
+[epoch:28, iter:274] Loss: 1.971 | Acc: 51.030% | Acc_cls: 34.263% |Mean_iou: 0.212
+[epoch:28, iter:275] Loss: 1.978 | Acc: 47.264% | Acc_cls: 36.426% |Mean_iou: 0.209
+[epoch:28, iter:276] Loss: 1.976 | Acc: 51.816% | Acc_cls: 30.036% |Mean_iou: 0.219
+[epoch:28, iter:277] Loss: 1.976 | Acc: 47.030% | Acc_cls: 30.253% |Mean_iou: 0.162
+[epoch:28, iter:278] Loss: 1.976 | Acc: 50.358% | Acc_cls: 29.451% |Mean_iou: 0.196
+[epoch:28, iter:279] Loss: 1.973 | Acc: 46.025% | Acc_cls: 27.191% |Mean_iou: 0.157
+[epoch:28, iter:280] Loss: 2.011 | Acc: 36.658% | Acc_cls: 34.244% |Mean_iou: 0.095
+cost time: 6.102833
+Waiting Val...
+acc_epoch: 47.112% | acc_cls_epoch: 30.181% |mean_iou_epoch: 0.167
+
+Epoch: 29
+[epoch:29, iter:281] Loss: 1.959 | Acc: 52.421% | Acc_cls: 36.393% |Mean_iou: 0.237
+[epoch:29, iter:282] Loss: 1.907 | Acc: 53.365% | Acc_cls: 31.687% |Mean_iou: 0.204
+[epoch:29, iter:283] Loss: 1.934 | Acc: 45.161% | Acc_cls: 30.379% |Mean_iou: 0.172
+[epoch:29, iter:284] Loss: 1.931 | Acc: 51.758% | Acc_cls: 36.655% |Mean_iou: 0.199
+[epoch:29, iter:285] Loss: 1.940 | Acc: 44.891% | Acc_cls: 29.553% |Mean_iou: 0.174
+[epoch:29, iter:286] Loss: 1.950 | Acc: 47.277% | Acc_cls: 27.128% |Mean_iou: 0.183
+[epoch:29, iter:287] Loss: 1.954 | Acc: 47.383% | Acc_cls: 35.057% |Mean_iou: 0.198
+[epoch:29, iter:288] Loss: 1.956 | Acc: 49.660% | Acc_cls: 31.631% |Mean_iou: 0.193
+[epoch:29, iter:289] Loss: 1.949 | Acc: 51.139% | Acc_cls: 30.507% |Mean_iou: 0.193
+[epoch:29, iter:290] Loss: 1.974 | Acc: 37.135% | Acc_cls: 28.466% |Mean_iou: 0.091
+cost time: 7.850154
+Waiting Val...
+acc_epoch: 48.049% | acc_cls_epoch: 31.135% |mean_iou_epoch: 0.179
+save epoch 29 unet
+
+Epoch: 30
+[epoch:30, iter:291] Loss: 1.952 | Acc: 50.123% | Acc_cls: 31.558% |Mean_iou: 0.191
+[epoch:30, iter:292] Loss: 1.933 | Acc: 51.047% | Acc_cls: 29.515% |Mean_iou: 0.205
+[epoch:30, iter:293] Loss: 1.943 | Acc: 46.688% | Acc_cls: 29.219% |Mean_iou: 0.180
+[epoch:30, iter:294] Loss: 1.965 | Acc: 42.501% | Acc_cls: 32.777% |Mean_iou: 0.174
+[epoch:30, iter:295] Loss: 1.956 | Acc: 50.714% | Acc_cls: 33.925% |Mean_iou: 0.201
+[epoch:30, iter:296] Loss: 1.936 | Acc: 52.999% | Acc_cls: 37.558% |Mean_iou: 0.208
+[epoch:30, iter:297] Loss: 1.947 | Acc: 45.015% | Acc_cls: 32.902% |Mean_iou: 0.189
+[epoch:30, iter:298] Loss: 1.934 | Acc: 55.725% | Acc_cls: 34.804% |Mean_iou: 0.229
+[epoch:30, iter:299] Loss: 1.929 | Acc: 51.091% | Acc_cls: 31.540% |Mean_iou: 0.182
+[epoch:30, iter:300] Loss: 1.942 | Acc: 47.610% | Acc_cls: 43.379% |Mean_iou: 0.173
+cost time: 6.103128
+Waiting Val...
+acc_epoch: 48.641% | acc_cls_epoch: 32.152% |mean_iou_epoch: 0.182
+save epoch 30 unet
+
+Epoch: 31
+[epoch:31, iter:301] Loss: 2.007 | Acc: 45.762% | Acc_cls: 33.988% |Mean_iou: 0.173
+[epoch:31, iter:302] Loss: 1.970 | Acc: 51.358% | Acc_cls: 32.646% |Mean_iou: 0.193
+[epoch:31, iter:303] Loss: 1.988 | Acc: 44.061% | Acc_cls: 30.518% |Mean_iou: 0.170
+[epoch:31, iter:304] Loss: 1.958 | Acc: 53.631% | Acc_cls: 34.389% |Mean_iou: 0.227
+[epoch:31, iter:305] Loss: 1.984 | Acc: 41.180% | Acc_cls: 30.823% |Mean_iou: 0.153
+[epoch:31, iter:306] Loss: 1.975 | Acc: 49.931% | Acc_cls: 33.828% |Mean_iou: 0.214
+[epoch:31, iter:307] Loss: 1.962 | Acc: 51.499% | Acc_cls: 35.715% |Mean_iou: 0.228
+[epoch:31, iter:308] Loss: 1.942 | Acc: 54.416% | Acc_cls: 36.425% |Mean_iou: 0.206
+[epoch:31, iter:309] Loss: 1.932 | Acc: 49.214% | Acc_cls: 33.497% |Mean_iou: 0.192
+[epoch:31, iter:310] Loss: 1.938 | Acc: 49.317% | Acc_cls: 42.606% |Mean_iou: 0.121
+cost time: 6.207549
+Waiting Val...
+acc_epoch: 49.339% | acc_cls_epoch: 32.953% |mean_iou_epoch: 0.189
+save epoch 31 unet
+
+Epoch: 32
+[epoch:32, iter:311] Loss: 1.993 | Acc: 46.333% | Acc_cls: 34.940% |Mean_iou: 0.189
+[epoch:32, iter:312] Loss: 1.963 | Acc: 48.947% | Acc_cls: 28.622% |Mean_iou: 0.183
+[epoch:32, iter:313] Loss: 1.960 | Acc: 48.879% | Acc_cls: 36.317% |Mean_iou: 0.218
+[epoch:32, iter:314] Loss: 1.976 | Acc: 43.524% | Acc_cls: 30.965% |Mean_iou: 0.182
+[epoch:32, iter:315] Loss: 1.945 | Acc: 52.945% | Acc_cls: 34.151% |Mean_iou: 0.200
+[epoch:32, iter:316] Loss: 1.935 | Acc: 50.601% | Acc_cls: 32.789% |Mean_iou: 0.194
+[epoch:32, iter:317] Loss: 1.920 | Acc: 53.503% | Acc_cls: 33.031% |Mean_iou: 0.186
+[epoch:32, iter:318] Loss: 1.916 | Acc: 52.168% | Acc_cls: 38.386% |Mean_iou: 0.203
+[epoch:32, iter:319] Loss: 1.901 | Acc: 56.568% | Acc_cls: 33.404% |Mean_iou: 0.222
+[epoch:32, iter:320] Loss: 1.911 | Acc: 44.810% | Acc_cls: 37.093% |Mean_iou: 0.156
+cost time: 6.190640
+Waiting Val...
+acc_epoch: 48.579% | acc_cls_epoch: 32.079% |mean_iou_epoch: 0.183
+
+Epoch: 33
+[epoch:33, iter:321] Loss: 1.823 | Acc: 53.977% | Acc_cls: 38.210% |Mean_iou: 0.214
+[epoch:33, iter:322] Loss: 1.875 | Acc: 48.441% | Acc_cls: 35.679% |Mean_iou: 0.199
+[epoch:33, iter:323] Loss: 1.860 | Acc: 53.463% | Acc_cls: 35.433% |Mean_iou: 0.228
+[epoch:33, iter:324] Loss: 1.883 | Acc: 47.676% | Acc_cls: 35.846% |Mean_iou: 0.215
+[epoch:33, iter:325] Loss: 1.858 | Acc: 55.407% | Acc_cls: 39.559% |Mean_iou: 0.257
+[epoch:33, iter:326] Loss: 1.865 | Acc: 51.787% | Acc_cls: 34.888% |Mean_iou: 0.229
+[epoch:33, iter:327] Loss: 1.874 | Acc: 49.067% | Acc_cls: 32.412% |Mean_iou: 0.175
+[epoch:33, iter:328] Loss: 1.878 | Acc: 48.050% | Acc_cls: 36.254% |Mean_iou: 0.192
+[epoch:33, iter:329] Loss: 1.870 | Acc: 53.116% | Acc_cls: 33.385% |Mean_iou: 0.213
+[epoch:33, iter:330] Loss: 1.917 | Acc: 38.997% | Acc_cls: 34.903% |Mean_iou: 0.100
+cost time: 6.129082
+Waiting Val...
+acc_epoch: 48.123% | acc_cls_epoch: 31.798% |mean_iou_epoch: 0.183
+
+Epoch: 34
+[epoch:34, iter:331] Loss: 1.834 | Acc: 53.859% | Acc_cls: 37.217% |Mean_iou: 0.225
+[epoch:34, iter:332] Loss: 1.815 | Acc: 56.174% | Acc_cls: 40.741% |Mean_iou: 0.239
+[epoch:34, iter:333] Loss: 1.819 | Acc: 54.689% | Acc_cls: 40.280% |Mean_iou: 0.249
+[epoch:34, iter:334] Loss: 1.811 | Acc: 54.086% | Acc_cls: 29.982% |Mean_iou: 0.210
+[epoch:34, iter:335] Loss: 1.839 | Acc: 47.163% | Acc_cls: 34.374% |Mean_iou: 0.204
+[epoch:34, iter:336] Loss: 1.848 | Acc: 51.119% | Acc_cls: 31.553% |Mean_iou: 0.202
+[epoch:34, iter:337] Loss: 1.846 | Acc: 53.125% | Acc_cls: 33.310% |Mean_iou: 0.220
+[epoch:34, iter:338] Loss: 1.852 | Acc: 50.651% | Acc_cls: 33.447% |Mean_iou: 0.206
+[epoch:34, iter:339] Loss: 1.856 | Acc: 50.689% | Acc_cls: 32.936% |Mean_iou: 0.218
+[epoch:34, iter:340] Loss: 1.911 | Acc: 32.100% | Acc_cls: 27.613% |Mean_iou: 0.076
+cost time: 6.086959
+Waiting Val...
+acc_epoch: 49.645% | acc_cls_epoch: 33.571% |mean_iou_epoch: 0.191
+save epoch 34 unet
+
+Epoch: 35
+[epoch:35, iter:341] Loss: 1.863 | Acc: 51.734% | Acc_cls: 36.051% |Mean_iou: 0.216
+[epoch:35, iter:342] Loss: 1.834 | Acc: 55.095% | Acc_cls: 35.423% |Mean_iou: 0.234
+[epoch:35, iter:343] Loss: 1.817 | Acc: 52.921% | Acc_cls: 39.358% |Mean_iou: 0.234
+[epoch:35, iter:344] Loss: 1.836 | Acc: 49.805% | Acc_cls: 34.787% |Mean_iou: 0.209
+[epoch:35, iter:345] Loss: 1.836 | Acc: 50.497% | Acc_cls: 31.537% |Mean_iou: 0.175
+[epoch:35, iter:346] Loss: 1.852 | Acc: 47.115% | Acc_cls: 30.484% |Mean_iou: 0.183
+[epoch:35, iter:347] Loss: 1.837 | Acc: 56.605% | Acc_cls: 40.001% |Mean_iou: 0.239
+[epoch:35, iter:348] Loss: 1.836 | Acc: 51.337% | Acc_cls: 32.411% |Mean_iou: 0.209
+[epoch:35, iter:349] Loss: 1.829 | Acc: 55.944% | Acc_cls: 39.417% |Mean_iou: 0.260
+[epoch:35, iter:350] Loss: 1.862 | Acc: 36.837% | Acc_cls: 31.610% |Mean_iou: 0.106
+cost time: 6.211105
+Waiting Val...
+acc_epoch: 49.893% | acc_cls_epoch: 33.256% |mean_iou_epoch: 0.191
+
+Epoch: 36
+[epoch:36, iter:351] Loss: 1.674 | Acc: 58.939% | Acc_cls: 38.606% |Mean_iou: 0.248
+[epoch:36, iter:352] Loss: 1.743 | Acc: 52.494% | Acc_cls: 37.738% |Mean_iou: 0.236
+[epoch:36, iter:353] Loss: 1.747 | Acc: 53.323% | Acc_cls: 34.003% |Mean_iou: 0.192
+[epoch:36, iter:354] Loss: 1.777 | Acc: 51.925% | Acc_cls: 34.950% |Mean_iou: 0.237
+[epoch:36, iter:355] Loss: 1.767 | Acc: 58.907% | Acc_cls: 39.349% |Mean_iou: 0.246
+[epoch:36, iter:356] Loss: 1.800 | Acc: 47.796% | Acc_cls: 35.389% |Mean_iou: 0.195
+[epoch:36, iter:357] Loss: 1.804 | Acc: 49.884% | Acc_cls: 37.673% |Mean_iou: 0.210
+[epoch:36, iter:358] Loss: 1.814 | Acc: 50.912% | Acc_cls: 36.212% |Mean_iou: 0.228
+[epoch:36, iter:359] Loss: 1.823 | Acc: 47.130% | Acc_cls: 25.975% |Mean_iou: 0.181
+[epoch:36, iter:360] Loss: 1.874 | Acc: 35.985% | Acc_cls: 32.462% |Mean_iou: 0.100
+cost time: 6.106391
+Waiting Val...
+acc_epoch: 49.430% | acc_cls_epoch: 33.139% |mean_iou_epoch: 0.192
+save epoch 36 unet
+
+Epoch: 37
+[epoch:37, iter:361] Loss: 1.986 | Acc: 47.017% | Acc_cls: 34.829% |Mean_iou: 0.201
+[epoch:37, iter:362] Loss: 1.874 | Acc: 52.509% | Acc_cls: 33.913% |Mean_iou: 0.221
+[epoch:37, iter:363] Loss: 1.855 | Acc: 51.014% | Acc_cls: 30.951% |Mean_iou: 0.225
+[epoch:37, iter:364] Loss: 1.806 | Acc: 61.581% | Acc_cls: 37.058% |Mean_iou: 0.262
+[epoch:37, iter:365] Loss: 1.801 | Acc: 53.520% | Acc_cls: 33.470% |Mean_iou: 0.195
+[epoch:37, iter:366] Loss: 1.799 | Acc: 52.591% | Acc_cls: 33.856% |Mean_iou: 0.222
+[epoch:37, iter:367] Loss: 1.801 | Acc: 51.268% | Acc_cls: 32.040% |Mean_iou: 0.182
+[epoch:37, iter:368] Loss: 1.795 | Acc: 55.865% | Acc_cls: 36.864% |Mean_iou: 0.232
+[epoch:37, iter:369] Loss: 1.800 | Acc: 53.091% | Acc_cls: 36.543% |Mean_iou: 0.251
+[epoch:37, iter:370] Loss: 1.802 | Acc: 52.193% | Acc_cls: 42.852% |Mean_iou: 0.172
+cost time: 6.081075
+Waiting Val...
+acc_epoch: 49.743% | acc_cls_epoch: 33.786% |mean_iou_epoch: 0.197
+save epoch 37 unet
+
+Epoch: 38
+[epoch:38, iter:371] Loss: 1.750 | Acc: 56.390% | Acc_cls: 33.772% |Mean_iou: 0.230
+[epoch:38, iter:372] Loss: 1.758 | Acc: 54.922% | Acc_cls: 37.706% |Mean_iou: 0.236
+[epoch:38, iter:373] Loss: 1.748 | Acc: 57.154% | Acc_cls: 38.026% |Mean_iou: 0.244
+[epoch:38, iter:374] Loss: 1.774 | Acc: 50.943% | Acc_cls: 34.643% |Mean_iou: 0.205
+[epoch:38, iter:375] Loss: 1.763 | Acc: 55.077% | Acc_cls: 33.963% |Mean_iou: 0.216
+[epoch:38, iter:376] Loss: 1.749 | Acc: 57.023% | Acc_cls: 37.021% |Mean_iou: 0.242
+[epoch:38, iter:377] Loss: 1.749 | Acc: 55.519% | Acc_cls: 39.163% |Mean_iou: 0.262
+[epoch:38, iter:378] Loss: 1.763 | Acc: 50.173% | Acc_cls: 37.921% |Mean_iou: 0.189
+[epoch:38, iter:379] Loss: 1.777 | Acc: 47.335% | Acc_cls: 31.796% |Mean_iou: 0.183
+[epoch:38, iter:380] Loss: 1.805 | Acc: 46.961% | Acc_cls: 57.442% |Mean_iou: 0.178
+cost time: 6.119855
+Waiting Val...
+acc_epoch: 48.722% | acc_cls_epoch: 32.934% |mean_iou_epoch: 0.188
+
+Epoch: 39
+[epoch:39, iter:381] Loss: 1.780 | Acc: 52.587% | Acc_cls: 32.266% |Mean_iou: 0.198
+[epoch:39, iter:382] Loss: 1.731 | Acc: 58.387% | Acc_cls: 44.409% |Mean_iou: 0.266
+[epoch:39, iter:383] Loss: 1.772 | Acc: 48.320% | Acc_cls: 31.958% |Mean_iou: 0.197
+[epoch:39, iter:384] Loss: 1.781 | Acc: 51.169% | Acc_cls: 32.820% |Mean_iou: 0.203
+[epoch:39, iter:385] Loss: 1.785 | Acc: 53.509% | Acc_cls: 34.928% |Mean_iou: 0.215
+[epoch:39, iter:386] Loss: 1.789 | Acc: 54.856% | Acc_cls: 41.925% |Mean_iou: 0.262
+[epoch:39, iter:387] Loss: 1.765 | Acc: 60.627% | Acc_cls: 36.659% |Mean_iou: 0.268
+[epoch:39, iter:388] Loss: 1.753 | Acc: 59.085% | Acc_cls: 40.558% |Mean_iou: 0.281
+[epoch:39, iter:389] Loss: 1.756 | Acc: 52.821% | Acc_cls: 38.651% |Mean_iou: 0.225
+[epoch:39, iter:390] Loss: 1.803 | Acc: 33.333% | Acc_cls: 20.153% |Mean_iou: 0.046
+cost time: 6.755213
+Waiting Val...
+acc_epoch: 48.688% | acc_cls_epoch: 33.378% |mean_iou_epoch: 0.191
+
+Epoch: 40
+[epoch:40, iter:391] Loss: 1.749 | Acc: 57.121% | Acc_cls: 37.180% |Mean_iou: 0.261
+[epoch:40, iter:392] Loss: 1.863 | Acc: 46.465% | Acc_cls: 35.300% |Mean_iou: 0.218
+[epoch:40, iter:393] Loss: 1.829 | Acc: 52.778% | Acc_cls: 33.141% |Mean_iou: 0.229
+[epoch:40, iter:394] Loss: 1.817 | Acc: 54.003% | Acc_cls: 36.219% |Mean_iou: 0.220
+[epoch:40, iter:395] Loss: 1.786 | Acc: 58.977% | Acc_cls: 34.996% |Mean_iou: 0.238
+[epoch:40, iter:396] Loss: 1.773 | Acc: 55.486% | Acc_cls: 38.072% |Mean_iou: 0.228
+[epoch:40, iter:397] Loss: 1.749 | Acc: 59.972% | Acc_cls: 35.279% |Mean_iou: 0.263
+[epoch:40, iter:398] Loss: 1.746 | Acc: 54.006% | Acc_cls: 31.620% |Mean_iou: 0.227
+[epoch:40, iter:399] Loss: 1.761 | Acc: 48.271% | Acc_cls: 34.689% |Mean_iou: 0.203
+[epoch:40, iter:400] Loss: 1.796 | Acc: 40.464% | Acc_cls: 41.715% |Mean_iou: 0.111
+cost time: 6.239828
+Waiting Val...
+acc_epoch: 47.591% | acc_cls_epoch: 32.857% |mean_iou_epoch: 0.181
+
+Epoch: 41
+[epoch:41, iter:401] Loss: 1.593 | Acc: 61.281% | Acc_cls: 38.128% |Mean_iou: 0.262
+[epoch:41, iter:402] Loss: 1.633 | Acc: 57.730% | Acc_cls: 37.133% |Mean_iou: 0.244
+[epoch:41, iter:403] Loss: 1.631 | Acc: 58.410% | Acc_cls: 37.701% |Mean_iou: 0.262
+[epoch:41, iter:404] Loss: 1.672 | Acc: 52.967% | Acc_cls: 36.608% |Mean_iou: 0.224
+[epoch:41, iter:405] Loss: 1.714 | Acc: 50.115% | Acc_cls: 32.912% |Mean_iou: 0.228
+[epoch:41, iter:406] Loss: 1.721 | Acc: 55.025% | Acc_cls: 40.600% |Mean_iou: 0.258
+[epoch:41, iter:407] Loss: 1.721 | Acc: 56.851% | Acc_cls: 45.450% |Mean_iou: 0.270
+[epoch:41, iter:408] Loss: 1.727 | Acc: 52.644% | Acc_cls: 33.299% |Mean_iou: 0.211
+[epoch:41, iter:409] Loss: 1.723 | Acc: 55.084% | Acc_cls: 34.849% |Mean_iou: 0.218
+[epoch:41, iter:410] Loss: 1.742 | Acc: 44.533% | Acc_cls: 35.848% |Mean_iou: 0.133
+cost time: 6.056454
+Waiting Val...
+acc_epoch: 49.647% | acc_cls_epoch: 33.290% |mean_iou_epoch: 0.198
+save epoch 41 unet
+
+Epoch: 42
+[epoch:42, iter:411] Loss: 1.691 | Acc: 57.093% | Acc_cls: 36.431% |Mean_iou: 0.254
+[epoch:42, iter:412] Loss: 1.699 | Acc: 53.267% | Acc_cls: 34.652% |Mean_iou: 0.223
+[epoch:42, iter:413] Loss: 1.726 | Acc: 53.451% | Acc_cls: 40.197% |Mean_iou: 0.267
+[epoch:42, iter:414] Loss: 1.699 | Acc: 60.033% | Acc_cls: 40.256% |Mean_iou: 0.275
+[epoch:42, iter:415] Loss: 1.694 | Acc: 58.115% | Acc_cls: 40.086% |Mean_iou: 0.303
+[epoch:42, iter:416] Loss: 1.698 | Acc: 55.017% | Acc_cls: 35.541% |Mean_iou: 0.237
+[epoch:42, iter:417] Loss: 1.683 | Acc: 61.635% | Acc_cls: 44.870% |Mean_iou: 0.315
+[epoch:42, iter:418] Loss: 1.685 | Acc: 56.665% | Acc_cls: 37.999% |Mean_iou: 0.250
+[epoch:42, iter:419] Loss: 1.687 | Acc: 57.309% | Acc_cls: 38.777% |Mean_iou: 0.255
+[epoch:42, iter:420] Loss: 1.705 | Acc: 51.866% | Acc_cls: 40.699% |Mean_iou: 0.163
+cost time: 6.174189
+Waiting Val...
+acc_epoch: 51.379% | acc_cls_epoch: 35.391% |mean_iou_epoch: 0.207
+save epoch 42 unet
+
+Epoch: 43
+[epoch:43, iter:421] Loss: 1.650 | Acc: 56.406% | Acc_cls: 37.474% |Mean_iou: 0.231
+[epoch:43, iter:422] Loss: 1.684 | Acc: 55.636% | Acc_cls: 37.608% |Mean_iou: 0.254
+[epoch:43, iter:423] Loss: 1.651 | Acc: 62.685% | Acc_cls: 42.104% |Mean_iou: 0.301
+[epoch:43, iter:424] Loss: 1.653 | Acc: 56.563% | Acc_cls: 41.678% |Mean_iou: 0.248
+[epoch:43, iter:425] Loss: 1.668 | Acc: 53.707% | Acc_cls: 37.190% |Mean_iou: 0.224
+[epoch:43, iter:426] Loss: 1.697 | Acc: 49.449% | Acc_cls: 38.554% |Mean_iou: 0.226
+[epoch:43, iter:427] Loss: 1.692 | Acc: 58.274% | Acc_cls: 41.434% |Mean_iou: 0.276
+[epoch:43, iter:428] Loss: 1.697 | Acc: 54.342% | Acc_cls: 39.296% |Mean_iou: 0.228
+[epoch:43, iter:429] Loss: 1.687 | Acc: 60.281% | Acc_cls: 39.559% |Mean_iou: 0.269
+[epoch:43, iter:430] Loss: 1.693 | Acc: 56.760% | Acc_cls: 41.202% |Mean_iou: 0.254
+cost time: 7.774685
+Waiting Val...
+acc_epoch: 48.546% | acc_cls_epoch: 33.047% |mean_iou_epoch: 0.188
+
+Epoch: 44
+[epoch:44, iter:431] Loss: 1.634 | Acc: 59.803% | Acc_cls: 42.130% |Mean_iou: 0.297
+[epoch:44, iter:432] Loss: 1.602 | Acc: 61.301% | Acc_cls: 39.015% |Mean_iou: 0.280
+[epoch:44, iter:433] Loss: 1.594 | Acc: 60.428% | Acc_cls: 41.119% |Mean_iou: 0.272
+[epoch:44, iter:434] Loss: 1.621 | Acc: 55.563% | Acc_cls: 39.103% |Mean_iou: 0.247
+[epoch:44, iter:435] Loss: 1.643 | Acc: 52.279% | Acc_cls: 36.598% |Mean_iou: 0.204
+[epoch:44, iter:436] Loss: 1.651 | Acc: 55.056% | Acc_cls: 34.443% |Mean_iou: 0.239
+[epoch:44, iter:437] Loss: 1.666 | Acc: 53.900% | Acc_cls: 42.862% |Mean_iou: 0.238
+[epoch:44, iter:438] Loss: 1.659 | Acc: 58.400% | Acc_cls: 44.172% |Mean_iou: 0.274
+[epoch:44, iter:439] Loss: 1.668 | Acc: 53.413% | Acc_cls: 36.557% |Mean_iou: 0.222
+[epoch:44, iter:440] Loss: 1.720 | Acc: 37.715% | Acc_cls: 36.814% |Mean_iou: 0.106
+cost time: 6.118457
+Waiting Val...
+acc_epoch: 48.646% | acc_cls_epoch: 33.325% |mean_iou_epoch: 0.199
+
+Epoch: 45
+[epoch:45, iter:441] Loss: 1.671 | Acc: 56.472% | Acc_cls: 41.389% |Mean_iou: 0.245
+[epoch:45, iter:442] Loss: 1.621 | Acc: 61.588% | Acc_cls: 38.616% |Mean_iou: 0.287
+[epoch:45, iter:443] Loss: 1.650 | Acc: 55.755% | Acc_cls: 39.261% |Mean_iou: 0.250
+[epoch:45, iter:444] Loss: 1.668 | Acc: 56.519% | Acc_cls: 36.115% |Mean_iou: 0.240
+[epoch:45, iter:445] Loss: 1.641 | Acc: 62.539% | Acc_cls: 39.924% |Mean_iou: 0.300
+[epoch:45, iter:446] Loss: 1.626 | Acc: 60.615% | Acc_cls: 41.505% |Mean_iou: 0.275
+[epoch:45, iter:447] Loss: 1.648 | Acc: 50.700% | Acc_cls: 36.893% |Mean_iou: 0.209
+[epoch:45, iter:448] Loss: 1.645 | Acc: 59.487% | Acc_cls: 41.903% |Mean_iou: 0.288
+[epoch:45, iter:449] Loss: 1.650 | Acc: 55.314% | Acc_cls: 33.738% |Mean_iou: 0.217
+[epoch:45, iter:450] Loss: 1.696 | Acc: 38.927% | Acc_cls: 38.559% |Mean_iou: 0.134
+cost time: 6.129756
+Waiting Val...
+acc_epoch: 50.909% | acc_cls_epoch: 35.330% |mean_iou_epoch: 0.211
+save epoch 45 unet
+
+Epoch: 46
+[epoch:46, iter:451] Loss: 1.515 | Acc: 62.665% | Acc_cls: 42.112% |Mean_iou: 0.309
+[epoch:46, iter:452] Loss: 1.576 | Acc: 57.602% | Acc_cls: 41.468% |Mean_iou: 0.247
+[epoch:46, iter:453] Loss: 1.620 | Acc: 56.796% | Acc_cls: 40.961% |Mean_iou: 0.267
+[epoch:46, iter:454] Loss: 1.620 | Acc: 58.350% | Acc_cls: 40.702% |Mean_iou: 0.261
+[epoch:46, iter:455] Loss: 1.620 | Acc: 57.808% | Acc_cls: 43.909% |Mean_iou: 0.277
+[epoch:46, iter:456] Loss: 1.644 | Acc: 54.983% | Acc_cls: 44.055% |Mean_iou: 0.280
+[epoch:46, iter:457] Loss: 1.667 | Acc: 50.045% | Acc_cls: 40.932% |Mean_iou: 0.242
+[epoch:46, iter:458] Loss: 1.666 | Acc: 56.012% | Acc_cls: 40.913% |Mean_iou: 0.243
+[epoch:46, iter:459] Loss: 1.668 | Acc: 56.179% | Acc_cls: 37.106% |Mean_iou: 0.250
+[epoch:46, iter:460] Loss: 1.660 | Acc: 64.853% | Acc_cls: 52.758% |Mean_iou: 0.219
+cost time: 6.158660
+Waiting Val...
+acc_epoch: 51.389% | acc_cls_epoch: 35.519% |mean_iou_epoch: 0.216
+save epoch 46 unet
+
+Epoch: 47
+[epoch:47, iter:461] Loss: 1.705 | Acc: 56.343% | Acc_cls: 41.860% |Mean_iou: 0.252
+[epoch:47, iter:462] Loss: 1.694 | Acc: 56.533% | Acc_cls: 42.128% |Mean_iou: 0.270
+[epoch:47, iter:463] Loss: 1.660 | Acc: 58.617% | Acc_cls: 38.177% |Mean_iou: 0.256
+[epoch:47, iter:464] Loss: 1.663 | Acc: 55.381% | Acc_cls: 37.419% |Mean_iou: 0.232
+[epoch:47, iter:465] Loss: 1.641 | Acc: 61.457% | Acc_cls: 40.785% |Mean_iou: 0.265
+[epoch:47, iter:466] Loss: 1.634 | Acc: 59.672% | Acc_cls: 39.998% |Mean_iou: 0.258
+[epoch:47, iter:467] Loss: 1.641 | Acc: 52.958% | Acc_cls: 41.950% |Mean_iou: 0.243
+[epoch:47, iter:468] Loss: 1.644 | Acc: 56.141% | Acc_cls: 31.065% |Mean_iou: 0.216
+[epoch:47, iter:469] Loss: 1.635 | Acc: 59.987% | Acc_cls: 42.056% |Mean_iou: 0.260
+[epoch:47, iter:470] Loss: 1.650 | Acc: 50.433% | Acc_cls: 39.479% |Mean_iou: 0.167
+cost time: 6.090476
+Waiting Val...
+acc_epoch: 49.826% | acc_cls_epoch: 34.506% |mean_iou_epoch: 0.202
+
+Epoch: 48
+[epoch:48, iter:471] Loss: 1.479 | Acc: 63.329% | Acc_cls: 42.276% |Mean_iou: 0.287
+[epoch:48, iter:472] Loss: 1.521 | Acc: 58.745% | Acc_cls: 41.973% |Mean_iou: 0.252
+[epoch:48, iter:473] Loss: 1.566 | Acc: 56.675% | Acc_cls: 42.548% |Mean_iou: 0.283
+[epoch:48, iter:474] Loss: 1.610 | Acc: 50.699% | Acc_cls: 38.619% |Mean_iou: 0.223
+[epoch:48, iter:475] Loss: 1.625 | Acc: 53.763% | Acc_cls: 29.886% |Mean_iou: 0.213
+[epoch:48, iter:476] Loss: 1.631 | Acc: 57.311% | Acc_cls: 41.423% |Mean_iou: 0.279
+[epoch:48, iter:477] Loss: 1.625 | Acc: 60.162% | Acc_cls: 37.719% |Mean_iou: 0.274
+[epoch:48, iter:478] Loss: 1.632 | Acc: 55.004% | Acc_cls: 40.152% |Mean_iou: 0.242
+[epoch:48, iter:479] Loss: 1.623 | Acc: 62.439% | Acc_cls: 46.442% |Mean_iou: 0.313
+[epoch:48, iter:480] Loss: 1.653 | Acc: 45.806% | Acc_cls: 39.974% |Mean_iou: 0.164
+cost time: 6.423523
+Waiting Val...
+acc_epoch: 49.598% | acc_cls_epoch: 34.543% |mean_iou_epoch: 0.203
+
+Epoch: 49
+[epoch:49, iter:481] Loss: 1.602 | Acc: 58.378% | Acc_cls: 38.949% |Mean_iou: 0.217
+[epoch:49, iter:482] Loss: 1.657 | Acc: 56.141% | Acc_cls: 39.671% |Mean_iou: 0.262
+[epoch:49, iter:483] Loss: 1.665 | Acc: 56.909% | Acc_cls: 41.036% |Mean_iou: 0.276
+[epoch:49, iter:484] Loss: 1.654 | Acc: 56.768% | Acc_cls: 38.142% |Mean_iou: 0.279
+[epoch:49, iter:485] Loss: 1.620 | Acc: 64.341% | Acc_cls: 47.064% |Mean_iou: 0.318
+[epoch:49, iter:486] Loss: 1.625 | Acc: 56.956% | Acc_cls: 38.249% |Mean_iou: 0.238
+[epoch:49, iter:487] Loss: 1.631 | Acc: 56.948% | Acc_cls: 37.706% |Mean_iou: 0.269
+[epoch:49, iter:488] Loss: 1.618 | Acc: 62.298% | Acc_cls: 41.245% |Mean_iou: 0.281
+[epoch:49, iter:489] Loss: 1.617 | Acc: 58.364% | Acc_cls: 42.735% |Mean_iou: 0.266
+[epoch:49, iter:490] Loss: 1.669 | Acc: 37.687% | Acc_cls: 40.857% |Mean_iou: 0.129
+cost time: 6.129987
+Waiting Val...
+acc_epoch: 50.398% | acc_cls_epoch: 36.293% |mean_iou_epoch: 0.211
+
+Epoch: 50
+[epoch:50, iter:491] Loss: 1.572 | Acc: 61.147% | Acc_cls: 40.583% |Mean_iou: 0.269
+[epoch:50, iter:492] Loss: 1.523 | Acc: 65.236% | Acc_cls: 39.469% |Mean_iou: 0.279
+[epoch:50, iter:493] Loss: 1.492 | Acc: 65.826% | Acc_cls: 45.741% |Mean_iou: 0.301
+[epoch:50, iter:494] Loss: 1.541 | Acc: 55.831% | Acc_cls: 43.884% |Mean_iou: 0.314
+[epoch:50, iter:495] Loss: 1.596 | Acc: 48.604% | Acc_cls: 35.272% |Mean_iou: 0.211
+[epoch:50, iter:496] Loss: 1.593 | Acc: 58.555% | Acc_cls: 36.077% |Mean_iou: 0.239
+[epoch:50, iter:497] Loss: 1.591 | Acc: 58.787% | Acc_cls: 40.553% |Mean_iou: 0.276
+[epoch:50, iter:498] Loss: 1.590 | Acc: 59.700% | Acc_cls: 40.733% |Mean_iou: 0.304
+[epoch:50, iter:499] Loss: 1.573 | Acc: 66.738% | Acc_cls: 46.591% |Mean_iou: 0.325
+[epoch:50, iter:500] Loss: 1.611 | Acc: 40.227% | Acc_cls: 34.544% |Mean_iou: 0.111
+cost time: 6.201110
+Waiting Val...
+acc_epoch: 51.158% | acc_cls_epoch: 36.257% |mean_iou_epoch: 0.220
+save epoch 50 unet
+
+Epoch: 51
+[epoch:51, iter:501] Loss: 1.467 | Acc: 64.912% | Acc_cls: 48.726% |Mean_iou: 0.344
+[epoch:51, iter:502] Loss: 1.514 | Acc: 61.532% | Acc_cls: 42.460% |Mean_iou: 0.306
+[epoch:51, iter:503] Loss: 1.594 | Acc: 51.965% | Acc_cls: 37.923% |Mean_iou: 0.236
+[epoch:51, iter:504] Loss: 1.616 | Acc: 53.015% | Acc_cls: 38.033% |Mean_iou: 0.223
+[epoch:51, iter:505] Loss: 1.620 | Acc: 57.257% | Acc_cls: 39.369% |Mean_iou: 0.263
+[epoch:51, iter:506] Loss: 1.605 | Acc: 63.023% | Acc_cls: 45.203% |Mean_iou: 0.305
+[epoch:51, iter:507] Loss: 1.598 | Acc: 57.553% | Acc_cls: 39.038% |Mean_iou: 0.264
+[epoch:51, iter:508] Loss: 1.596 | Acc: 59.632% | Acc_cls: 39.930% |Mean_iou: 0.272
+[epoch:51, iter:509] Loss: 1.582 | Acc: 63.447% | Acc_cls: 42.086% |Mean_iou: 0.283
+[epoch:51, iter:510] Loss: 1.605 | Acc: 51.840% | Acc_cls: 46.969% |Mean_iou: 0.176
+cost time: 6.108485
+Waiting Val...
+acc_epoch: 52.449% | acc_cls_epoch: 35.831% |mean_iou_epoch: 0.219
+
+Epoch: 52
+[epoch:52, iter:511] Loss: 1.597 | Acc: 57.628% | Acc_cls: 35.688% |Mean_iou: 0.219
+[epoch:52, iter:512] Loss: 1.560 | Acc: 61.098% | Acc_cls: 51.859% |Mean_iou: 0.320
+[epoch:52, iter:513] Loss: 1.557 | Acc: 59.805% | Acc_cls: 39.692% |Mean_iou: 0.278
+[epoch:52, iter:514] Loss: 1.557 | Acc: 59.504% | Acc_cls: 42.039% |Mean_iou: 0.306
+[epoch:52, iter:515] Loss: 1.523 | Acc: 68.889% | Acc_cls: 40.710% |Mean_iou: 0.308
+[epoch:52, iter:516] Loss: 1.519 | Acc: 61.132% | Acc_cls: 44.095% |Mean_iou: 0.320
+[epoch:52, iter:517] Loss: 1.535 | Acc: 57.717% | Acc_cls: 40.829% |Mean_iou: 0.268
+[epoch:52, iter:518] Loss: 1.523 | Acc: 63.475% | Acc_cls: 39.293% |Mean_iou: 0.304
+[epoch:52, iter:519] Loss: 1.531 | Acc: 58.603% | Acc_cls: 42.637% |Mean_iou: 0.278
+[epoch:52, iter:520] Loss: 1.568 | Acc: 43.514% | Acc_cls: 34.920% |Mean_iou: 0.114
+cost time: 6.134910
+Waiting Val...
+acc_epoch: 50.922% | acc_cls_epoch: 35.703% |mean_iou_epoch: 0.216
+
+Epoch: 53
+[epoch:53, iter:521] Loss: 1.373 | Acc: 66.321% | Acc_cls: 44.738% |Mean_iou: 0.331
+[epoch:53, iter:522] Loss: 1.393 | Acc: 67.369% | Acc_cls: 44.277% |Mean_iou: 0.357
+[epoch:53, iter:523] Loss: 1.455 | Acc: 58.557% | Acc_cls: 42.124% |Mean_iou: 0.291
+[epoch:53, iter:524] Loss: 1.509 | Acc: 55.352% | Acc_cls: 39.308% |Mean_iou: 0.270
+[epoch:53, iter:525] Loss: 1.529 | Acc: 58.549% | Acc_cls: 39.669% |Mean_iou: 0.235
+[epoch:53, iter:526] Loss: 1.531 | Acc: 60.548% | Acc_cls: 42.751% |Mean_iou: 0.281
+[epoch:53, iter:527] Loss: 1.524 | Acc: 64.135% | Acc_cls: 42.895% |Mean_iou: 0.304
+[epoch:53, iter:528] Loss: 1.515 | Acc: 64.504% | Acc_cls: 42.738% |Mean_iou: 0.300
+[epoch:53, iter:529] Loss: 1.536 | Acc: 53.297% | Acc_cls: 37.834% |Mean_iou: 0.231
+[epoch:53, iter:530] Loss: 1.551 | Acc: 52.757% | Acc_cls: 47.263% |Mean_iou: 0.158
+cost time: 6.046403
+Waiting Val...
+acc_epoch: 51.241% | acc_cls_epoch: 36.692% |mean_iou_epoch: 0.216
+
+Epoch: 54
+[epoch:54, iter:531] Loss: 1.473 | Acc: 63.434% | Acc_cls: 44.129% |Mean_iou: 0.313
+[epoch:54, iter:532] Loss: 1.493 | Acc: 61.319% | Acc_cls: 41.573% |Mean_iou: 0.305
+[epoch:54, iter:533] Loss: 1.525 | Acc: 58.564% | Acc_cls: 38.426% |Mean_iou: 0.264
+[epoch:54, iter:534] Loss: 1.503 | Acc: 65.583% | Acc_cls: 48.086% |Mean_iou: 0.347
+[epoch:54, iter:535] Loss: 1.509 | Acc: 59.327% | Acc_cls: 39.742% |Mean_iou: 0.260
+[epoch:54, iter:536] Loss: 1.509 | Acc: 59.713% | Acc_cls: 43.296% |Mean_iou: 0.283
+[epoch:54, iter:537] Loss: 1.524 | Acc: 57.814% | Acc_cls: 40.897% |Mean_iou: 0.256
+[epoch:54, iter:538] Loss: 1.558 | Acc: 49.890% | Acc_cls: 37.512% |Mean_iou: 0.223
+[epoch:54, iter:539] Loss: 1.553 | Acc: 60.538% | Acc_cls: 45.722% |Mean_iou: 0.280
+[epoch:54, iter:540] Loss: 1.588 | Acc: 46.637% | Acc_cls: 39.942% |Mean_iou: 0.139
+cost time: 6.104658
+Waiting Val...
+acc_epoch: 51.008% | acc_cls_epoch: 35.496% |mean_iou_epoch: 0.213
+
+Epoch: 55
+[epoch:55, iter:541] Loss: 1.406 | Acc: 65.299% | Acc_cls: 43.392% |Mean_iou: 0.314
+[epoch:55, iter:542] Loss: 1.474 | Acc: 59.176% | Acc_cls: 43.690% |Mean_iou: 0.266
+[epoch:55, iter:543] Loss: 1.478 | Acc: 61.292% | Acc_cls: 42.339% |Mean_iou: 0.305
+[epoch:55, iter:544] Loss: 1.458 | Acc: 65.646% | Acc_cls: 45.264% |Mean_iou: 0.324
+[epoch:55, iter:545] Loss: 1.468 | Acc: 60.977% | Acc_cls: 39.768% |Mean_iou: 0.272
+[epoch:55, iter:546] Loss: 1.482 | Acc: 58.223% | Acc_cls: 40.519% |Mean_iou: 0.253
+[epoch:55, iter:547] Loss: 1.498 | Acc: 56.523% | Acc_cls: 46.998% |Mean_iou: 0.315
+[epoch:55, iter:548] Loss: 1.514 | Acc: 53.559% | Acc_cls: 41.962% |Mean_iou: 0.253
+[epoch:55, iter:549] Loss: 1.503 | Acc: 66.450% | Acc_cls: 48.420% |Mean_iou: 0.348
+[epoch:55, iter:550] Loss: 1.553 | Acc: 44.271% | Acc_cls: 38.751% |Mean_iou: 0.172
+cost time: 6.124113
+Waiting Val...
+acc_epoch: 51.079% | acc_cls_epoch: 37.011% |mean_iou_epoch: 0.222
+save epoch 55 unet
+
+Epoch: 56
+[epoch:56, iter:551] Loss: 1.460 | Acc: 64.091% | Acc_cls: 51.369% |Mean_iou: 0.350
+[epoch:56, iter:552] Loss: 1.484 | Acc: 62.943% | Acc_cls: 47.936% |Mean_iou: 0.305
+[epoch:56, iter:553] Loss: 1.541 | Acc: 55.816% | Acc_cls: 37.861% |Mean_iou: 0.268
+[epoch:56, iter:554] Loss: 1.528 | Acc: 58.575% | Acc_cls: 43.538% |Mean_iou: 0.282
+[epoch:56, iter:555] Loss: 1.518 | Acc: 61.484% | Acc_cls: 44.543% |Mean_iou: 0.264
+[epoch:56, iter:556] Loss: 1.541 | Acc: 53.225% | Acc_cls: 40.319% |Mean_iou: 0.254
+[epoch:56, iter:557] Loss: 1.525 | Acc: 64.131% | Acc_cls: 47.254% |Mean_iou: 0.334
+[epoch:56, iter:558] Loss: 1.507 | Acc: 66.932% | Acc_cls: 47.835% |Mean_iou: 0.310
+[epoch:56, iter:559] Loss: 1.497 | Acc: 66.088% | Acc_cls: 45.211% |Mean_iou: 0.326
+[epoch:56, iter:560] Loss: 1.547 | Acc: 44.597% | Acc_cls: 35.947% |Mean_iou: 0.148
+cost time: 6.062276
+Waiting Val...
+acc_epoch: 53.959% | acc_cls_epoch: 38.135% |mean_iou_epoch: 0.231
+save epoch 56 unet
+
+Epoch: 57
+[epoch:57, iter:561] Loss: 1.512 | Acc: 60.933% | Acc_cls: 46.467% |Mean_iou: 0.324
+[epoch:57, iter:562] Loss: 1.500 | Acc: 61.435% | Acc_cls: 40.947% |Mean_iou: 0.269
+[epoch:57, iter:563] Loss: 1.454 | Acc: 66.238% | Acc_cls: 42.598% |Mean_iou: 0.296
+[epoch:57, iter:564] Loss: 1.472 | Acc: 61.600% | Acc_cls: 44.566% |Mean_iou: 0.349
+[epoch:57, iter:565] Loss: 1.471 | Acc: 62.002% | Acc_cls: 44.470% |Mean_iou: 0.292
+[epoch:57, iter:566] Loss: 1.468 | Acc: 62.799% | Acc_cls: 41.011% |Mean_iou: 0.286
+[epoch:57, iter:567] Loss: 1.480 | Acc: 59.692% | Acc_cls: 42.591% |Mean_iou: 0.276
+[epoch:57, iter:568] Loss: 1.483 | Acc: 58.682% | Acc_cls: 40.827% |Mean_iou: 0.304
+[epoch:57, iter:569] Loss: 1.470 | Acc: 67.259% | Acc_cls: 47.677% |Mean_iou: 0.347
+[epoch:57, iter:570] Loss: 1.511 | Acc: 47.542% | Acc_cls: 47.379% |Mean_iou: 0.157
+cost time: 6.053201
+Waiting Val...
+acc_epoch: 52.056% | acc_cls_epoch: 37.039% |mean_iou_epoch: 0.228
+
+Epoch: 58
+[epoch:58, iter:571] Loss: 1.384 | Acc: 65.242% | Acc_cls: 42.801% |Mean_iou: 0.295
+[epoch:58, iter:572] Loss: 1.479 | Acc: 59.845% | Acc_cls: 39.082% |Mean_iou: 0.290
+[epoch:58, iter:573] Loss: 1.454 | Acc: 64.594% | Acc_cls: 44.202% |Mean_iou: 0.332
+[epoch:58, iter:574] Loss: 1.420 | Acc: 68.036% | Acc_cls: 40.224% |Mean_iou: 0.324
+[epoch:58, iter:575] Loss: 1.424 | Acc: 62.542% | Acc_cls: 40.105% |Mean_iou: 0.295
+[epoch:58, iter:576] Loss: 1.443 | Acc: 60.699% | Acc_cls: 50.561% |Mean_iou: 0.364
+[epoch:58, iter:577] Loss: 1.440 | Acc: 63.836% | Acc_cls: 40.907% |Mean_iou: 0.290
+[epoch:58, iter:578] Loss: 1.460 | Acc: 56.888% | Acc_cls: 40.872% |Mean_iou: 0.232
+[epoch:58, iter:579] Loss: 1.468 | Acc: 60.695% | Acc_cls: 43.060% |Mean_iou: 0.290
+[epoch:58, iter:580] Loss: 1.493 | Acc: 49.732% | Acc_cls: 42.575% |Mean_iou: 0.158
+cost time: 6.088966
+Waiting Val...
+acc_epoch: 53.920% | acc_cls_epoch: 38.425% |mean_iou_epoch: 0.234
+save epoch 58 unet
+
+Epoch: 59
+[epoch:59, iter:581] Loss: 1.575 | Acc: 57.516% | Acc_cls: 40.460% |Mean_iou: 0.243
+[epoch:59, iter:582] Loss: 1.472 | Acc: 65.759% | Acc_cls: 42.756% |Mean_iou: 0.318
+[epoch:59, iter:583] Loss: 1.466 | Acc: 63.737% | Acc_cls: 44.171% |Mean_iou: 0.326
+[epoch:59, iter:584] Loss: 1.466 | Acc: 61.663% | Acc_cls: 45.646% |Mean_iou: 0.332
+[epoch:59, iter:585] Loss: 1.470 | Acc: 62.597% | Acc_cls: 49.760% |Mean_iou: 0.357
+[epoch:59, iter:586] Loss: 1.464 | Acc: 63.551% | Acc_cls: 47.607% |Mean_iou: 0.317
+[epoch:59, iter:587] Loss: 1.453 | Acc: 64.682% | Acc_cls: 41.656% |Mean_iou: 0.279
+[epoch:59, iter:588] Loss: 1.452 | Acc: 64.126% | Acc_cls: 42.614% |Mean_iou: 0.315
+[epoch:59, iter:589] Loss: 1.457 | Acc: 62.350% | Acc_cls: 45.984% |Mean_iou: 0.315
+[epoch:59, iter:590] Loss: 1.469 | Acc: 60.842% | Acc_cls: 49.762% |Mean_iou: 0.211
+cost time: 6.117329
+Waiting Val...
+acc_epoch: 53.076% | acc_cls_epoch: 37.957% |mean_iou_epoch: 0.234
+save epoch 59 unet
+
+Epoch: 60
+[epoch:60, iter:591] Loss: 1.498 | Acc: 61.000% | Acc_cls: 40.665% |Mean_iou: 0.305
+[epoch:60, iter:592] Loss: 1.458 | Acc: 61.627% | Acc_cls: 44.879% |Mean_iou: 0.307
+[epoch:60, iter:593] Loss: 1.452 | Acc: 65.497% | Acc_cls: 46.362% |Mean_iou: 0.357
+[epoch:60, iter:594] Loss: 1.460 | Acc: 60.475% | Acc_cls: 41.988% |Mean_iou: 0.279
+[epoch:60, iter:595] Loss: 1.448 | Acc: 65.948% | Acc_cls: 46.261% |Mean_iou: 0.330
+[epoch:60, iter:596] Loss: 1.430 | Acc: 67.473% | Acc_cls: 44.476% |Mean_iou: 0.329
+[epoch:60, iter:597] Loss: 1.431 | Acc: 65.403% | Acc_cls: 49.037% |Mean_iou: 0.310
+[epoch:60, iter:598] Loss: 1.432 | Acc: 63.224% | Acc_cls: 46.124% |Mean_iou: 0.316
+[epoch:60, iter:599] Loss: 1.445 | Acc: 60.090% | Acc_cls: 45.498% |Mean_iou: 0.288
+[epoch:60, iter:600] Loss: 1.537 | Acc: 33.012% | Acc_cls: 21.813% |Mean_iou: 0.074
+cost time: 6.094585
+Waiting Val...
+acc_epoch: 51.786% | acc_cls_epoch: 37.709% |mean_iou_epoch: 0.234
+
+Epoch: 61
+[epoch:61, iter:601] Loss: 1.341 | Acc: 68.080% | Acc_cls: 47.157% |Mean_iou: 0.325
+[epoch:61, iter:602] Loss: 1.429 | Acc: 58.086% | Acc_cls: 45.562% |Mean_iou: 0.277
+[epoch:61, iter:603] Loss: 1.461 | Acc: 59.303% | Acc_cls: 39.702% |Mean_iou: 0.251
+[epoch:61, iter:604] Loss: 1.481 | Acc: 59.566% | Acc_cls: 45.772% |Mean_iou: 0.325
+[epoch:61, iter:605] Loss: 1.497 | Acc: 56.804% | Acc_cls: 40.470% |Mean_iou: 0.273
+[epoch:61, iter:606] Loss: 1.477 | Acc: 69.174% | Acc_cls: 46.134% |Mean_iou: 0.369
+[epoch:61, iter:607] Loss: 1.481 | Acc: 60.714% | Acc_cls: 54.281% |Mean_iou: 0.328
+[epoch:61, iter:608] Loss: 1.471 | Acc: 64.712% | Acc_cls: 45.709% |Mean_iou: 0.278
+[epoch:61, iter:609] Loss: 1.462 | Acc: 64.729% | Acc_cls: 48.251% |Mean_iou: 0.314
+[epoch:61, iter:610] Loss: 1.483 | Acc: 58.871% | Acc_cls: 52.834% |Mean_iou: 0.209
+cost time: 6.079321
+Waiting Val...
+acc_epoch: 53.047% | acc_cls_epoch: 39.010% |mean_iou_epoch: 0.234
+
+Epoch: 62
+[epoch:62, iter:611] Loss: 1.367 | Acc: 65.712% | Acc_cls: 45.914% |Mean_iou: 0.343
+[epoch:62, iter:612] Loss: 1.424 | Acc: 62.436% | Acc_cls: 47.089% |Mean_iou: 0.349
+[epoch:62, iter:613] Loss: 1.438 | Acc: 61.306% | Acc_cls: 43.582% |Mean_iou: 0.280
+[epoch:62, iter:614] Loss: 1.440 | Acc: 62.859% | Acc_cls: 45.705% |Mean_iou: 0.329
+[epoch:62, iter:615] Loss: 1.411 | Acc: 67.044% | Acc_cls: 47.240% |Mean_iou: 0.327
+[epoch:62, iter:616] Loss: 1.403 | Acc: 67.578% | Acc_cls: 45.679% |Mean_iou: 0.329
+[epoch:62, iter:617] Loss: 1.408 | Acc: 64.685% | Acc_cls: 45.514% |Mean_iou: 0.318
+[epoch:62, iter:618] Loss: 1.407 | Acc: 64.993% | Acc_cls: 45.928% |Mean_iou: 0.313
+[epoch:62, iter:619] Loss: 1.416 | Acc: 61.267% | Acc_cls: 49.607% |Mean_iou: 0.332
+[epoch:62, iter:620] Loss: 1.526 | Acc: 32.040% | Acc_cls: 17.467% |Mean_iou: 0.041
+cost time: 6.126746
+Waiting Val...
+acc_epoch: 53.568% | acc_cls_epoch: 37.678% |mean_iou_epoch: 0.228
+
+Epoch: 63
+[epoch:63, iter:621] Loss: 1.291 | Acc: 69.366% | Acc_cls: 42.778% |Mean_iou: 0.331
+[epoch:63, iter:622] Loss: 1.359 | Acc: 63.766% | Acc_cls: 41.665% |Mean_iou: 0.311
+[epoch:63, iter:623] Loss: 1.413 | Acc: 58.765% | Acc_cls: 44.465% |Mean_iou: 0.305
+[epoch:63, iter:624] Loss: 1.418 | Acc: 65.277% | Acc_cls: 44.093% |Mean_iou: 0.313
+[epoch:63, iter:625] Loss: 1.421 | Acc: 63.437% | Acc_cls: 46.873% |Mean_iou: 0.350
+[epoch:63, iter:626] Loss: 1.419 | Acc: 63.632% | Acc_cls: 46.585% |Mean_iou: 0.317
+[epoch:63, iter:627] Loss: 1.418 | Acc: 64.245% | Acc_cls: 44.985% |Mean_iou: 0.323
+[epoch:63, iter:628] Loss: 1.421 | Acc: 61.262% | Acc_cls: 47.792% |Mean_iou: 0.296
+[epoch:63, iter:629] Loss: 1.445 | Acc: 54.180% | Acc_cls: 39.454% |Mean_iou: 0.265
+[epoch:63, iter:630] Loss: 1.477 | Acc: 49.206% | Acc_cls: 41.602% |Mean_iou: 0.187
+cost time: 6.036653
+Waiting Val...
+acc_epoch: 51.256% | acc_cls_epoch: 36.204% |mean_iou_epoch: 0.219
+
+Epoch: 64
+[epoch:64, iter:631] Loss: 1.338 | Acc: 65.502% | Acc_cls: 45.905% |Mean_iou: 0.330
+[epoch:64, iter:632] Loss: 1.391 | Acc: 61.755% | Acc_cls: 49.631% |Mean_iou: 0.314
+[epoch:64, iter:633] Loss: 1.425 | Acc: 59.582% | Acc_cls: 39.520% |Mean_iou: 0.287
+[epoch:64, iter:634] Loss: 1.401 | Acc: 69.057% | Acc_cls: 50.692% |Mean_iou: 0.327
+[epoch:64, iter:635] Loss: 1.408 | Acc: 62.920% | Acc_cls: 45.582% |Mean_iou: 0.338
+[epoch:64, iter:636] Loss: 1.421 | Acc: 62.311% | Acc_cls: 47.210% |Mean_iou: 0.324
+[epoch:64, iter:637] Loss: 1.408 | Acc: 64.935% | Acc_cls: 41.915% |Mean_iou: 0.314
+[epoch:64, iter:638] Loss: 1.391 | Acc: 71.260% | Acc_cls: 46.790% |Mean_iou: 0.343
+[epoch:64, iter:639] Loss: 1.403 | Acc: 60.027% | Acc_cls: 39.162% |Mean_iou: 0.283
+[epoch:64, iter:640] Loss: 1.415 | Acc: 58.082% | Acc_cls: 58.497% |Mean_iou: 0.272
+cost time: 6.082731
+Waiting Val...
+acc_epoch: 55.209% | acc_cls_epoch: 40.647% |mean_iou_epoch: 0.249
+save epoch 64 unet
+
+Epoch: 65
+[epoch:65, iter:641] Loss: 1.464 | Acc: 62.994% | Acc_cls: 49.973% |Mean_iou: 0.349
+[epoch:65, iter:642] Loss: 1.433 | Acc: 63.562% | Acc_cls: 49.015% |Mean_iou: 0.333
+[epoch:65, iter:643] Loss: 1.436 | Acc: 61.849% | Acc_cls: 41.242% |Mean_iou: 0.278
+[epoch:65, iter:644] Loss: 1.395 | Acc: 67.465% | Acc_cls: 47.395% |Mean_iou: 0.336
+[epoch:65, iter:645] Loss: 1.404 | Acc: 62.125% | Acc_cls: 43.851% |Mean_iou: 0.310
+[epoch:65, iter:646] Loss: 1.443 | Acc: 55.720% | Acc_cls: 38.392% |Mean_iou: 0.232
+[epoch:65, iter:647] Loss: 1.435 | Acc: 64.799% | Acc_cls: 47.605% |Mean_iou: 0.311
+[epoch:65, iter:648] Loss: 1.428 | Acc: 68.561% | Acc_cls: 47.430% |Mean_iou: 0.338
+[epoch:65, iter:649] Loss: 1.421 | Acc: 63.637% | Acc_cls: 44.937% |Mean_iou: 0.322
+[epoch:65, iter:650] Loss: 1.483 | Acc: 45.845% | Acc_cls: 39.162% |Mean_iou: 0.130
+cost time: 6.074230
+Waiting Val...
+acc_epoch: 54.165% | acc_cls_epoch: 40.676% |mean_iou_epoch: 0.251
+save epoch 65 unet
+
+Epoch: 66
+[epoch:66, iter:651] Loss: 1.279 | Acc: 68.987% | Acc_cls: 56.069% |Mean_iou: 0.373
+[epoch:66, iter:652] Loss: 1.314 | Acc: 66.341% | Acc_cls: 48.577% |Mean_iou: 0.379
+[epoch:66, iter:653] Loss: 1.376 | Acc: 59.904% | Acc_cls: 41.806% |Mean_iou: 0.274
+[epoch:66, iter:654] Loss: 1.368 | Acc: 66.816% | Acc_cls: 49.799% |Mean_iou: 0.358
+[epoch:66, iter:655] Loss: 1.388 | Acc: 60.612% | Acc_cls: 46.173% |Mean_iou: 0.294
+[epoch:66, iter:656] Loss: 1.389 | Acc: 64.300% | Acc_cls: 47.979% |Mean_iou: 0.365
+[epoch:66, iter:657] Loss: 1.372 | Acc: 68.424% | Acc_cls: 48.153% |Mean_iou: 0.348
+[epoch:66, iter:658] Loss: 1.373 | Acc: 66.981% | Acc_cls: 54.177% |Mean_iou: 0.379
+[epoch:66, iter:659] Loss: 1.368 | Acc: 66.986% | Acc_cls: 45.841% |Mean_iou: 0.343
+[epoch:66, iter:660] Loss: 1.423 | Acc: 42.441% | Acc_cls: 47.130% |Mean_iou: 0.156
+cost time: 6.154020
+Waiting Val...
+acc_epoch: 54.278% | acc_cls_epoch: 39.607% |mean_iou_epoch: 0.241
+
+Epoch: 67
+[epoch:67, iter:661] Loss: 1.341 | Acc: 66.536% | Acc_cls: 49.261% |Mean_iou: 0.343
+[epoch:67, iter:662] Loss: 1.380 | Acc: 63.446% | Acc_cls: 45.647% |Mean_iou: 0.287
+[epoch:67, iter:663] Loss: 1.401 | Acc: 62.128% | Acc_cls: 43.113% |Mean_iou: 0.287
+[epoch:67, iter:664] Loss: 1.412 | Acc: 60.769% | Acc_cls: 45.503% |Mean_iou: 0.315
+[epoch:67, iter:665] Loss: 1.391 | Acc: 68.151% | Acc_cls: 46.437% |Mean_iou: 0.345
+[epoch:67, iter:666] Loss: 1.370 | Acc: 69.195% | Acc_cls: 48.036% |Mean_iou: 0.361
+[epoch:67, iter:667] Loss: 1.375 | Acc: 64.601% | Acc_cls: 47.073% |Mean_iou: 0.370
+[epoch:67, iter:668] Loss: 1.379 | Acc: 62.060% | Acc_cls: 47.539% |Mean_iou: 0.345
+[epoch:67, iter:669] Loss: 1.385 | Acc: 64.233% | Acc_cls: 45.030% |Mean_iou: 0.324
+[epoch:67, iter:670] Loss: 1.430 | Acc: 47.684% | Acc_cls: 50.184% |Mean_iou: 0.166
+cost time: 6.101821
+Waiting Val...
+acc_epoch: 55.217% | acc_cls_epoch: 41.170% |mean_iou_epoch: 0.251
+save epoch 67 unet
+
+Epoch: 68
+[epoch:68, iter:671] Loss: 1.353 | Acc: 66.910% | Acc_cls: 48.170% |Mean_iou: 0.361
+[epoch:68, iter:672] Loss: 1.323 | Acc: 68.550% | Acc_cls: 52.949% |Mean_iou: 0.362
+[epoch:68, iter:673] Loss: 1.331 | Acc: 67.426% | Acc_cls: 42.394% |Mean_iou: 0.300
+[epoch:68, iter:674] Loss: 1.321 | Acc: 66.973% | Acc_cls: 47.727% |Mean_iou: 0.340
+[epoch:68, iter:675] Loss: 1.335 | Acc: 62.919% | Acc_cls: 46.748% |Mean_iou: 0.311
+[epoch:68, iter:676] Loss: 1.336 | Acc: 65.659% | Acc_cls: 51.084% |Mean_iou: 0.363
+[epoch:68, iter:677] Loss: 1.361 | Acc: 59.183% | Acc_cls: 47.392% |Mean_iou: 0.331
+[epoch:68, iter:678] Loss: 1.355 | Acc: 65.679% | Acc_cls: 52.722% |Mean_iou: 0.374
+[epoch:68, iter:679] Loss: 1.354 | Acc: 65.648% | Acc_cls: 47.239% |Mean_iou: 0.344
+[epoch:68, iter:680] Loss: 1.391 | Acc: 53.405% | Acc_cls: 61.615% |Mean_iou: 0.220
+cost time: 6.248989
+Waiting Val...
+acc_epoch: 53.861% | acc_cls_epoch: 38.312% |mean_iou_epoch: 0.245
+
+Epoch: 69
+[epoch:69, iter:681] Loss: 1.358 | Acc: 65.761% | Acc_cls: 45.783% |Mean_iou: 0.330
+[epoch:69, iter:682] Loss: 1.374 | Acc: 64.101% | Acc_cls: 48.874% |Mean_iou: 0.380
+[epoch:69, iter:683] Loss: 1.343 | Acc: 68.000% | Acc_cls: 49.146% |Mean_iou: 0.373
+[epoch:69, iter:684] Loss: 1.308 | Acc: 72.190% | Acc_cls: 53.313% |Mean_iou: 0.390
+[epoch:69, iter:685] Loss: 1.306 | Acc: 66.637% | Acc_cls: 49.758% |Mean_iou: 0.356
+[epoch:69, iter:686] Loss: 1.297 | Acc: 69.260% | Acc_cls: 50.238% |Mean_iou: 0.365
+[epoch:69, iter:687] Loss: 1.304 | Acc: 66.007% | Acc_cls: 45.456% |Mean_iou: 0.323
+[epoch:69, iter:688] Loss: 1.321 | Acc: 60.878% | Acc_cls: 41.146% |Mean_iou: 0.272
+[epoch:69, iter:689] Loss: 1.316 | Acc: 67.178% | Acc_cls: 46.263% |Mean_iou: 0.343
+[epoch:69, iter:690] Loss: 1.367 | Acc: 49.096% | Acc_cls: 45.057% |Mean_iou: 0.168
+cost time: 6.145451
+Waiting Val...
+acc_epoch: 54.228% | acc_cls_epoch: 40.374% |mean_iou_epoch: 0.249
+
+Epoch: 70
+[epoch:70, iter:691] Loss: 1.380 | Acc: 65.216% | Acc_cls: 45.747% |Mean_iou: 0.348
+[epoch:70, iter:692] Loss: 1.355 | Acc: 67.623% | Acc_cls: 48.225% |Mean_iou: 0.384
+[epoch:70, iter:693] Loss: 1.416 | Acc: 57.080% | Acc_cls: 49.647% |Mean_iou: 0.273
+[epoch:70, iter:694] Loss: 1.392 | Acc: 66.343% | Acc_cls: 49.002% |Mean_iou: 0.370
+[epoch:70, iter:695] Loss: 1.387 | Acc: 66.927% | Acc_cls: 54.230% |Mean_iou: 0.368
+[epoch:70, iter:696] Loss: 1.375 | Acc: 66.801% | Acc_cls: 47.535% |Mean_iou: 0.350
+[epoch:70, iter:697] Loss: 1.385 | Acc: 60.386% | Acc_cls: 41.066% |Mean_iou: 0.280
+[epoch:70, iter:698] Loss: 1.383 | Acc: 65.281% | Acc_cls: 47.987% |Mean_iou: 0.320
+[epoch:70, iter:699] Loss: 1.374 | Acc: 65.830% | Acc_cls: 46.040% |Mean_iou: 0.337
+[epoch:70, iter:700] Loss: 1.437 | Acc: 41.796% | Acc_cls: 47.534% |Mean_iou: 0.193
+cost time: 6.074294
+Waiting Val...
+acc_epoch: 54.464% | acc_cls_epoch: 39.408% |mean_iou_epoch: 0.242
+
+Epoch: 71
+[epoch:71, iter:701] Loss: 1.225 | Acc: 69.211% | Acc_cls: 55.908% |Mean_iou: 0.395
+[epoch:71, iter:702] Loss: 1.257 | Acc: 67.809% | Acc_cls: 42.751% |Mean_iou: 0.314
+[epoch:71, iter:703] Loss: 1.280 | Acc: 66.769% | Acc_cls: 48.063% |Mean_iou: 0.331
+[epoch:71, iter:704] Loss: 1.286 | Acc: 66.861% | Acc_cls: 50.277% |Mean_iou: 0.362
+[epoch:71, iter:705] Loss: 1.314 | Acc: 63.887% | Acc_cls: 46.569% |Mean_iou: 0.330
+[epoch:71, iter:706] Loss: 1.314 | Acc: 68.455% | Acc_cls: 52.844% |Mean_iou: 0.404
+[epoch:71, iter:707] Loss: 1.339 | Acc: 58.590% | Acc_cls: 46.596% |Mean_iou: 0.268
+[epoch:71, iter:708] Loss: 1.325 | Acc: 69.271% | Acc_cls: 44.371% |Mean_iou: 0.340
+[epoch:71, iter:709] Loss: 1.329 | Acc: 63.633% | Acc_cls: 44.558% |Mean_iou: 0.275
+[epoch:71, iter:710] Loss: 1.368 | Acc: 55.850% | Acc_cls: 46.745% |Mean_iou: 0.181
+cost time: 6.174867
+Waiting Val...
+acc_epoch: 54.202% | acc_cls_epoch: 38.024% |mean_iou_epoch: 0.246
+
+Epoch: 72
+[epoch:72, iter:711] Loss: 1.328 | Acc: 66.951% | Acc_cls: 48.772% |Mean_iou: 0.309
+[epoch:72, iter:712] Loss: 1.286 | Acc: 69.250% | Acc_cls: 52.696% |Mean_iou: 0.386
+[epoch:72, iter:713] Loss: 1.296 | Acc: 66.948% | Acc_cls: 48.428% |Mean_iou: 0.357
+[epoch:72, iter:714] Loss: 1.292 | Acc: 67.315% | Acc_cls: 47.498% |Mean_iou: 0.365
+[epoch:72, iter:715] Loss: 1.308 | Acc: 67.071% | Acc_cls: 52.288% |Mean_iou: 0.378
+[epoch:72, iter:716] Loss: 1.299 | Acc: 68.227% | Acc_cls: 46.847% |Mean_iou: 0.317
+[epoch:72, iter:717] Loss: 1.304 | Acc: 66.878% | Acc_cls: 49.822% |Mean_iou: 0.357
+[epoch:72, iter:718] Loss: 1.300 | Acc: 67.125% | Acc_cls: 46.552% |Mean_iou: 0.347
+[epoch:72, iter:719] Loss: 1.306 | Acc: 63.980% | Acc_cls: 46.076% |Mean_iou: 0.334
+[epoch:72, iter:720] Loss: 1.365 | Acc: 43.052% | Acc_cls: 38.110% |Mean_iou: 0.171
+cost time: 6.110068
+Waiting Val...
+acc_epoch: 55.038% | acc_cls_epoch: 40.566% |mean_iou_epoch: 0.252
+save epoch 72 unet
+
+Epoch: 73
+[epoch:73, iter:721] Loss: 1.211 | Acc: 72.672% | Acc_cls: 57.700% |Mean_iou: 0.431
+[epoch:73, iter:722] Loss: 1.326 | Acc: 60.105% | Acc_cls: 46.349% |Mean_iou: 0.282
+[epoch:73, iter:723] Loss: 1.347 | Acc: 62.140% | Acc_cls: 42.897% |Mean_iou: 0.265
+[epoch:73, iter:724] Loss: 1.281 | Acc: 77.102% | Acc_cls: 57.918% |Mean_iou: 0.407
+[epoch:73, iter:725] Loss: 1.289 | Acc: 65.333% | Acc_cls: 44.373% |Mean_iou: 0.319
+[epoch:73, iter:726] Loss: 1.315 | Acc: 62.138% | Acc_cls: 51.534% |Mean_iou: 0.312
+[epoch:73, iter:727] Loss: 1.324 | Acc: 64.223% | Acc_cls: 49.837% |Mean_iou: 0.355
+[epoch:73, iter:728] Loss: 1.325 | Acc: 65.372% | Acc_cls: 50.201% |Mean_iou: 0.377
+[epoch:73, iter:729] Loss: 1.318 | Acc: 66.966% | Acc_cls: 50.734% |Mean_iou: 0.316
+[epoch:73, iter:730] Loss: 1.353 | Acc: 54.291% | Acc_cls: 56.571% |Mean_iou: 0.198
+cost time: 6.547188
+Waiting Val...
+acc_epoch: 53.941% | acc_cls_epoch: 40.542% |mean_iou_epoch: 0.253
+save epoch 73 unet
+
+Epoch: 74
+[epoch:74, iter:731] Loss: 1.257 | Acc: 69.546% | Acc_cls: 47.164% |Mean_iou: 0.342
+[epoch:74, iter:732] Loss: 1.366 | Acc: 56.512% | Acc_cls: 41.302% |Mean_iou: 0.251
+[epoch:74, iter:733] Loss: 1.324 | Acc: 71.310% | Acc_cls: 54.896% |Mean_iou: 0.383
+[epoch:74, iter:734] Loss: 1.307 | Acc: 68.955% | Acc_cls: 55.294% |Mean_iou: 0.399
+[epoch:74, iter:735] Loss: 1.304 | Acc: 64.773% | Acc_cls: 47.569% |Mean_iou: 0.321
+[epoch:74, iter:736] Loss: 1.283 | Acc: 72.480% | Acc_cls: 54.472% |Mean_iou: 0.413
+[epoch:74, iter:737] Loss: 1.281 | Acc: 67.116% | Acc_cls: 47.578% |Mean_iou: 0.359
+[epoch:74, iter:738] Loss: 1.284 | Acc: 64.264% | Acc_cls: 41.288% |Mean_iou: 0.278
+[epoch:74, iter:739] Loss: 1.300 | Acc: 65.040% | Acc_cls: 50.811% |Mean_iou: 0.364
+[epoch:74, iter:740] Loss: 1.318 | Acc: 62.262% | Acc_cls: 53.420% |Mean_iou: 0.241
+cost time: 6.118378
+Waiting Val...
+acc_epoch: 55.954% | acc_cls_epoch: 41.388% |mean_iou_epoch: 0.258
+save epoch 74 unet
+
+Epoch: 75
+[epoch:75, iter:741] Loss: 1.231 | Acc: 67.378% | Acc_cls: 50.320% |Mean_iou: 0.369
+[epoch:75, iter:742] Loss: 1.274 | Acc: 67.756% | Acc_cls: 45.259% |Mean_iou: 0.327
+[epoch:75, iter:743] Loss: 1.312 | Acc: 64.326% | Acc_cls: 51.592% |Mean_iou: 0.328
+[epoch:75, iter:744] Loss: 1.331 | Acc: 64.948% | Acc_cls: 46.379% |Mean_iou: 0.314
+[epoch:75, iter:745] Loss: 1.325 | Acc: 64.843% | Acc_cls: 46.513% |Mean_iou: 0.329
+[epoch:75, iter:746] Loss: 1.309 | Acc: 71.356% | Acc_cls: 51.525% |Mean_iou: 0.366
+[epoch:75, iter:747] Loss: 1.304 | Acc: 67.345% | Acc_cls: 43.464% |Mean_iou: 0.316
+[epoch:75, iter:748] Loss: 1.311 | Acc: 63.861% | Acc_cls: 49.710% |Mean_iou: 0.349
+[epoch:75, iter:749] Loss: 1.312 | Acc: 64.350% | Acc_cls: 46.407% |Mean_iou: 0.323
+[epoch:75, iter:750] Loss: 1.351 | Acc: 49.128% | Acc_cls: 47.971% |Mean_iou: 0.196
+cost time: 6.100154
+Waiting Val...
+acc_epoch: 55.373% | acc_cls_epoch: 41.028% |mean_iou_epoch: 0.259
+save epoch 75 unet
+
+Epoch: 76
+[epoch:76, iter:751] Loss: 1.291 | Acc: 66.419% | Acc_cls: 51.431% |Mean_iou: 0.355
+[epoch:76, iter:752] Loss: 1.443 | Acc: 56.330% | Acc_cls: 43.394% |Mean_iou: 0.234
+[epoch:76, iter:753] Loss: 1.428 | Acc: 62.031% | Acc_cls: 47.588% |Mean_iou: 0.333
+[epoch:76, iter:754] Loss: 1.371 | Acc: 70.958% | Acc_cls: 56.895% |Mean_iou: 0.392
+[epoch:76, iter:755] Loss: 1.365 | Acc: 63.566% | Acc_cls: 43.214% |Mean_iou: 0.299
+[epoch:76, iter:756] Loss: 1.364 | Acc: 65.632% | Acc_cls: 53.316% |Mean_iou: 0.395
+[epoch:76, iter:757] Loss: 1.365 | Acc: 64.373% | Acc_cls: 47.391% |Mean_iou: 0.333
+[epoch:76, iter:758] Loss: 1.332 | Acc: 75.075% | Acc_cls: 52.020% |Mean_iou: 0.405
+[epoch:76, iter:759] Loss: 1.326 | Acc: 66.501% | Acc_cls: 48.078% |Mean_iou: 0.354
+[epoch:76, iter:760] Loss: 1.324 | Acc: 67.211% | Acc_cls: 46.420% |Mean_iou: 0.254
+cost time: 6.068414
+Waiting Val...
+acc_epoch: 54.531% | acc_cls_epoch: 39.626% |mean_iou_epoch: 0.252
+
+Epoch: 77
+[epoch:77, iter:761] Loss: 1.275 | Acc: 68.863% | Acc_cls: 54.771% |Mean_iou: 0.335
+[epoch:77, iter:762] Loss: 1.329 | Acc: 63.865% | Acc_cls: 47.820% |Mean_iou: 0.343
+[epoch:77, iter:763] Loss: 1.305 | Acc: 69.633% | Acc_cls: 54.975% |Mean_iou: 0.413
+[epoch:77, iter:764] Loss: 1.294 | Acc: 66.629% | Acc_cls: 48.359% |Mean_iou: 0.324
+[epoch:77, iter:765] Loss: 1.289 | Acc: 66.316% | Acc_cls: 42.335% |Mean_iou: 0.328
+[epoch:77, iter:766] Loss: 1.278 | Acc: 69.346% | Acc_cls: 48.870% |Mean_iou: 0.341
+[epoch:77, iter:767] Loss: 1.279 | Acc: 67.768% | Acc_cls: 50.658% |Mean_iou: 0.372
+[epoch:77, iter:768] Loss: 1.280 | Acc: 65.066% | Acc_cls: 48.602% |Mean_iou: 0.307
+[epoch:77, iter:769] Loss: 1.273 | Acc: 70.585% | Acc_cls: 48.320% |Mean_iou: 0.401
+[epoch:77, iter:770] Loss: 1.322 | Acc: 47.675% | Acc_cls: 39.511% |Mean_iou: 0.144
+cost time: 6.097231
+Waiting Val...
+acc_epoch: 54.411% | acc_cls_epoch: 38.274% |mean_iou_epoch: 0.249
+
+Epoch: 78
+[epoch:78, iter:771] Loss: 1.222 | Acc: 69.805% | Acc_cls: 51.954% |Mean_iou: 0.396
+[epoch:78, iter:772] Loss: 1.336 | Acc: 61.317% | Acc_cls: 48.614% |Mean_iou: 0.347
+[epoch:78, iter:773] Loss: 1.277 | Acc: 72.907% | Acc_cls: 52.492% |Mean_iou: 0.410
+[epoch:78, iter:774] Loss: 1.306 | Acc: 65.425% | Acc_cls: 46.902% |Mean_iou: 0.346
+[epoch:78, iter:775] Loss: 1.311 | Acc: 64.996% | Acc_cls: 47.239% |Mean_iou: 0.312
+[epoch:78, iter:776] Loss: 1.298 | Acc: 68.813% | Acc_cls: 48.827% |Mean_iou: 0.349
+[epoch:78, iter:777] Loss: 1.287 | Acc: 68.190% | Acc_cls: 47.523% |Mean_iou: 0.338
+[epoch:78, iter:778] Loss: 1.276 | Acc: 69.801% | Acc_cls: 54.021% |Mean_iou: 0.361
+[epoch:78, iter:779] Loss: 1.280 | Acc: 65.591% | Acc_cls: 51.804% |Mean_iou: 0.341
+[epoch:78, iter:780] Loss: 1.303 | Acc: 60.587% | Acc_cls: 68.469% |Mean_iou: 0.314
+cost time: 6.135426
+Waiting Val...
+acc_epoch: 55.045% | acc_cls_epoch: 42.779% |mean_iou_epoch: 0.266
+save epoch 78 unet
+
+Epoch: 79
+[epoch:79, iter:781] Loss: 1.217 | Acc: 69.809% | Acc_cls: 49.559% |Mean_iou: 0.362
+[epoch:79, iter:782] Loss: 1.250 | Acc: 67.172% | Acc_cls: 49.056% |Mean_iou: 0.356
+[epoch:79, iter:783] Loss: 1.213 | Acc: 73.490% | Acc_cls: 58.323% |Mean_iou: 0.417
+[epoch:79, iter:784] Loss: 1.252 | Acc: 61.542% | Acc_cls: 46.863% |Mean_iou: 0.312
+[epoch:79, iter:785] Loss: 1.227 | Acc: 73.207% | Acc_cls: 54.254% |Mean_iou: 0.372
+[epoch:79, iter:786] Loss: 1.225 | Acc: 67.843% | Acc_cls: 47.871% |Mean_iou: 0.336
+[epoch:79, iter:787] Loss: 1.230 | Acc: 67.402% | Acc_cls: 47.618% |Mean_iou: 0.327
+[epoch:79, iter:788] Loss: 1.235 | Acc: 67.987% | Acc_cls: 53.587% |Mean_iou: 0.368
+[epoch:79, iter:789] Loss: 1.251 | Acc: 62.367% | Acc_cls: 51.382% |Mean_iou: 0.373
+[epoch:79, iter:790] Loss: 1.256 | Acc: 70.782% | Acc_cls: 70.691% |Mean_iou: 0.374
+cost time: 6.070033
+Waiting Val...
+acc_epoch: 56.357% | acc_cls_epoch: 42.247% |mean_iou_epoch: 0.266
+save epoch 79 unet
+
+Epoch: 80
+[epoch:80, iter:791] Loss: 1.177 | Acc: 70.947% | Acc_cls: 49.731% |Mean_iou: 0.348
+[epoch:80, iter:792] Loss: 1.347 | Acc: 59.885% | Acc_cls: 43.492% |Mean_iou: 0.313
+[epoch:80, iter:793] Loss: 1.268 | Acc: 73.850% | Acc_cls: 55.425% |Mean_iou: 0.421
+[epoch:80, iter:794] Loss: 1.269 | Acc: 67.610% | Acc_cls: 57.764% |Mean_iou: 0.331
+[epoch:80, iter:795] Loss: 1.277 | Acc: 66.186% | Acc_cls: 46.521% |Mean_iou: 0.347
+[epoch:80, iter:796] Loss: 1.271 | Acc: 67.227% | Acc_cls: 53.541% |Mean_iou: 0.367
+[epoch:80, iter:797] Loss: 1.258 | Acc: 71.945% | Acc_cls: 55.025% |Mean_iou: 0.388
+[epoch:80, iter:798] Loss: 1.260 | Acc: 66.820% | Acc_cls: 50.694% |Mean_iou: 0.351
+[epoch:80, iter:799] Loss: 1.252 | Acc: 69.041% | Acc_cls: 50.727% |Mean_iou: 0.340
+[epoch:80, iter:800] Loss: 1.276 | Acc: 59.283% | Acc_cls: 47.773% |Mean_iou: 0.198
+cost time: 6.092111
+Waiting Val...
+acc_epoch: 55.540% | acc_cls_epoch: 41.252% |mean_iou_epoch: 0.258
+
+Epoch: 81
+[epoch:81, iter:801] Loss: 1.169 | Acc: 72.372% | Acc_cls: 52.347% |Mean_iou: 0.422
+[epoch:81, iter:802] Loss: 1.177 | Acc: 69.717% | Acc_cls: 48.154% |Mean_iou: 0.376
+[epoch:81, iter:803] Loss: 1.165 | Acc: 70.649% | Acc_cls: 53.926% |Mean_iou: 0.426
+[epoch:81, iter:804] Loss: 1.168 | Acc: 71.478% | Acc_cls: 56.870% |Mean_iou: 0.427
+[epoch:81, iter:805] Loss: 1.178 | Acc: 67.954% | Acc_cls: 46.090% |Mean_iou: 0.330
+[epoch:81, iter:806] Loss: 1.211 | Acc: 61.819% | Acc_cls: 46.334% |Mean_iou: 0.306
+[epoch:81, iter:807] Loss: 1.218 | Acc: 66.497% | Acc_cls: 49.208% |Mean_iou: 0.350
+[epoch:81, iter:808] Loss: 1.222 | Acc: 68.432% | Acc_cls: 53.555% |Mean_iou: 0.394
+[epoch:81, iter:809] Loss: 1.220 | Acc: 69.498% | Acc_cls: 49.074% |Mean_iou: 0.327
+[epoch:81, iter:810] Loss: 1.268 | Acc: 58.000% | Acc_cls: 50.689% |Mean_iou: 0.174
+cost time: 6.062929
+Waiting Val...
+acc_epoch: 54.721% | acc_cls_epoch: 41.366% |mean_iou_epoch: 0.257
+
+Epoch: 82
+[epoch:82, iter:811] Loss: 1.206 | Acc: 67.836% | Acc_cls: 49.832% |Mean_iou: 0.342
+[epoch:82, iter:812] Loss: 1.284 | Acc: 65.075% | Acc_cls: 49.132% |Mean_iou: 0.336
+[epoch:82, iter:813] Loss: 1.233 | Acc: 70.443% | Acc_cls: 53.796% |Mean_iou: 0.372
+[epoch:82, iter:814] Loss: 1.192 | Acc: 74.662% | Acc_cls: 56.312% |Mean_iou: 0.432
+[epoch:82, iter:815] Loss: 1.195 | Acc: 69.662% | Acc_cls: 42.483% |Mean_iou: 0.345
+[epoch:82, iter:816] Loss: 1.197 | Acc: 69.987% | Acc_cls: 49.487% |Mean_iou: 0.381
+[epoch:82, iter:817] Loss: 1.196 | Acc: 70.769% | Acc_cls: 51.943% |Mean_iou: 0.396
+[epoch:82, iter:818] Loss: 1.226 | Acc: 61.509% | Acc_cls: 47.741% |Mean_iou: 0.297
+[epoch:82, iter:819] Loss: 1.231 | Acc: 64.933% | Acc_cls: 49.584% |Mean_iou: 0.347
+[epoch:82, iter:820] Loss: 1.283 | Acc: 48.546% | Acc_cls: 53.357% |Mean_iou: 0.229
+cost time: 6.107276
+Waiting Val...
+acc_epoch: 56.247% | acc_cls_epoch: 41.603% |mean_iou_epoch: 0.271
+save epoch 82 unet
+
+Epoch: 83
+[epoch:83, iter:821] Loss: 1.265 | Acc: 67.546% | Acc_cls: 51.319% |Mean_iou: 0.347
+[epoch:83, iter:822] Loss: 1.231 | Acc: 71.357% | Acc_cls: 49.793% |Mean_iou: 0.391
+[epoch:83, iter:823] Loss: 1.204 | Acc: 73.045% | Acc_cls: 54.518% |Mean_iou: 0.407
+[epoch:83, iter:824] Loss: 1.212 | Acc: 67.260% | Acc_cls: 51.177% |Mean_iou: 0.377
+[epoch:83, iter:825] Loss: 1.210 | Acc: 68.504% | Acc_cls: 50.871% |Mean_iou: 0.366
+[epoch:83, iter:826] Loss: 1.205 | Acc: 69.024% | Acc_cls: 53.154% |Mean_iou: 0.381
+[epoch:83, iter:827] Loss: 1.229 | Acc: 64.693% | Acc_cls: 53.772% |Mean_iou: 0.333
+[epoch:83, iter:828] Loss: 1.222 | Acc: 71.778% | Acc_cls: 57.568% |Mean_iou: 0.431
+[epoch:83, iter:829] Loss: 1.213 | Acc: 71.778% | Acc_cls: 53.238% |Mean_iou: 0.382
+[epoch:83, iter:830] Loss: 1.231 | Acc: 63.110% | Acc_cls: 52.798% |Mean_iou: 0.183
+cost time: 6.163274
+Waiting Val...
+acc_epoch: 53.018% | acc_cls_epoch: 39.397% |mean_iou_epoch: 0.246
+
+Epoch: 84
+[epoch:84, iter:831] Loss: 1.136 | Acc: 73.383% | Acc_cls: 54.772% |Mean_iou: 0.384
+[epoch:84, iter:832] Loss: 1.219 | Acc: 64.859% | Acc_cls: 48.079% |Mean_iou: 0.326
+[epoch:84, iter:833] Loss: 1.232 | Acc: 68.130% | Acc_cls: 49.375% |Mean_iou: 0.356
+[epoch:84, iter:834] Loss: 1.232 | Acc: 68.972% | Acc_cls: 55.196% |Mean_iou: 0.420
+[epoch:84, iter:835] Loss: 1.213 | Acc: 70.913% | Acc_cls: 56.914% |Mean_iou: 0.406
+[epoch:84, iter:836] Loss: 1.212 | Acc: 67.994% | Acc_cls: 46.821% |Mean_iou: 0.351
+[epoch:84, iter:837] Loss: 1.199 | Acc: 72.591% | Acc_cls: 51.390% |Mean_iou: 0.378
+[epoch:84, iter:838] Loss: 1.191 | Acc: 72.567% | Acc_cls: 53.688% |Mean_iou: 0.428
+[epoch:84, iter:839] Loss: 1.184 | Acc: 72.140% | Acc_cls: 53.306% |Mean_iou: 0.412
+[epoch:84, iter:840] Loss: 1.198 | Acc: 65.765% | Acc_cls: 56.633% |Mean_iou: 0.304
+cost time: 6.067421
+Waiting Val...
+acc_epoch: 57.337% | acc_cls_epoch: 42.651% |mean_iou_epoch: 0.272
+save epoch 84 unet
+
+Epoch: 85
+[epoch:85, iter:841] Loss: 1.144 | Acc: 71.860% | Acc_cls: 54.189% |Mean_iou: 0.391
+[epoch:85, iter:842] Loss: 1.158 | Acc: 69.513% | Acc_cls: 52.402% |Mean_iou: 0.344
+[epoch:85, iter:843] Loss: 1.154 | Acc: 73.103% | Acc_cls: 56.689% |Mean_iou: 0.434
+[epoch:85, iter:844] Loss: 1.116 | Acc: 77.041% | Acc_cls: 58.866% |Mean_iou: 0.390
+[epoch:85, iter:845] Loss: 1.142 | Acc: 66.481% | Acc_cls: 51.253% |Mean_iou: 0.360
+[epoch:85, iter:846] Loss: 1.149 | Acc: 70.429% | Acc_cls: 54.969% |Mean_iou: 0.393
+[epoch:85, iter:847] Loss: 1.147 | Acc: 70.374% | Acc_cls: 54.169% |Mean_iou: 0.399
+[epoch:85, iter:848] Loss: 1.150 | Acc: 72.899% | Acc_cls: 57.798% |Mean_iou: 0.429
+[epoch:85, iter:849] Loss: 1.150 | Acc: 71.369% | Acc_cls: 56.930% |Mean_iou: 0.459
+[epoch:85, iter:850] Loss: 1.208 | Acc: 52.763% | Acc_cls: 48.964% |Mean_iou: 0.231
+cost time: 6.074276
+Waiting Val...
+acc_epoch: 54.982% | acc_cls_epoch: 41.107% |mean_iou_epoch: 0.262
+
+Epoch: 86
+[epoch:86, iter:851] Loss: 1.134 | Acc: 73.257% | Acc_cls: 54.689% |Mean_iou: 0.396
+[epoch:86, iter:852] Loss: 1.176 | Acc: 67.771% | Acc_cls: 49.004% |Mean_iou: 0.368
+[epoch:86, iter:853] Loss: 1.194 | Acc: 69.805% | Acc_cls: 52.859% |Mean_iou: 0.396
+[epoch:86, iter:854] Loss: 1.186 | Acc: 73.415% | Acc_cls: 55.821% |Mean_iou: 0.447
+[epoch:86, iter:855] Loss: 1.156 | Acc: 77.581% | Acc_cls: 55.470% |Mean_iou: 0.447
+[epoch:86, iter:856] Loss: 1.161 | Acc: 69.287% | Acc_cls: 47.765% |Mean_iou: 0.333
+[epoch:86, iter:857] Loss: 1.174 | Acc: 67.124% | Acc_cls: 53.520% |Mean_iou: 0.384
+[epoch:86, iter:858] Loss: 1.163 | Acc: 72.995% | Acc_cls: 56.224% |Mean_iou: 0.424
+[epoch:86, iter:859] Loss: 1.164 | Acc: 69.823% | Acc_cls: 50.448% |Mean_iou: 0.372
+[epoch:86, iter:860] Loss: 1.260 | Acc: 44.007% | Acc_cls: 47.747% |Mean_iou: 0.180
+cost time: 6.074500
+Waiting Val...
+acc_epoch: 55.490% | acc_cls_epoch: 42.108% |mean_iou_epoch: 0.266
+
+Epoch: 87
+[epoch:87, iter:861] Loss: 1.221 | Acc: 67.548% | Acc_cls: 51.410% |Mean_iou: 0.359
+[epoch:87, iter:862] Loss: 1.232 | Acc: 67.652% | Acc_cls: 51.906% |Mean_iou: 0.323
+[epoch:87, iter:863] Loss: 1.204 | Acc: 72.359% | Acc_cls: 50.903% |Mean_iou: 0.377
+[epoch:87, iter:864] Loss: 1.186 | Acc: 72.909% | Acc_cls: 54.284% |Mean_iou: 0.372
+[epoch:87, iter:865] Loss: 1.178 | Acc: 72.119% | Acc_cls: 52.291% |Mean_iou: 0.415
+[epoch:87, iter:866] Loss: 1.188 | Acc: 67.944% | Acc_cls: 55.015% |Mean_iou: 0.398
+[epoch:87, iter:867] Loss: 1.187 | Acc: 69.262% | Acc_cls: 50.333% |Mean_iou: 0.412
+[epoch:87, iter:868] Loss: 1.194 | Acc: 68.479% | Acc_cls: 50.685% |Mean_iou: 0.369
+[epoch:87, iter:869] Loss: 1.191 | Acc: 67.180% | Acc_cls: 53.901% |Mean_iou: 0.368
+[epoch:87, iter:870] Loss: 1.266 | Acc: 49.312% | Acc_cls: 40.379% |Mean_iou: 0.143
+cost time: 6.051250
+Waiting Val...
+acc_epoch: 56.079% | acc_cls_epoch: 42.175% |mean_iou_epoch: 0.268
+
+Epoch: 88
+[epoch:88, iter:871] Loss: 1.288 | Acc: 65.467% | Acc_cls: 55.735% |Mean_iou: 0.373
+[epoch:88, iter:872] Loss: 1.243 | Acc: 70.890% | Acc_cls: 57.820% |Mean_iou: 0.445
+[epoch:88, iter:873] Loss: 1.210 | Acc: 73.316% | Acc_cls: 53.241% |Mean_iou: 0.443
+[epoch:88, iter:874] Loss: 1.213 | Acc: 67.182% | Acc_cls: 51.139% |Mean_iou: 0.338
+[epoch:88, iter:875] Loss: 1.196 | Acc: 71.445% | Acc_cls: 54.988% |Mean_iou: 0.415
+[epoch:88, iter:876] Loss: 1.193 | Acc: 67.078% | Acc_cls: 48.412% |Mean_iou: 0.325
+[epoch:88, iter:877] Loss: 1.186 | Acc: 68.532% | Acc_cls: 50.402% |Mean_iou: 0.317
+[epoch:88, iter:878] Loss: 1.195 | Acc: 66.501% | Acc_cls: 48.697% |Mean_iou: 0.321
+[epoch:88, iter:879] Loss: 1.190 | Acc: 72.003% | Acc_cls: 58.742% |Mean_iou: 0.459
+[epoch:88, iter:880] Loss: 1.222 | Acc: 58.556% | Acc_cls: 52.475% |Mean_iou: 0.273
+cost time: 6.081556
+Waiting Val...
+acc_epoch: 56.271% | acc_cls_epoch: 42.736% |mean_iou_epoch: 0.267
+
+Epoch: 89
+[epoch:89, iter:881] Loss: 1.139 | Acc: 71.989% | Acc_cls: 54.993% |Mean_iou: 0.422
+[epoch:89, iter:882] Loss: 1.057 | Acc: 77.062% | Acc_cls: 55.955% |Mean_iou: 0.448
+[epoch:89, iter:883] Loss: 1.092 | Acc: 68.566% | Acc_cls: 60.636% |Mean_iou: 0.440
+[epoch:89, iter:884] Loss: 1.102 | Acc: 71.203% | Acc_cls: 57.449% |Mean_iou: 0.436
+[epoch:89, iter:885] Loss: 1.097 | Acc: 72.314% | Acc_cls: 53.882% |Mean_iou: 0.413
+[epoch:89, iter:886] Loss: 1.100 | Acc: 73.689% | Acc_cls: 54.686% |Mean_iou: 0.440
+[epoch:89, iter:887] Loss: 1.104 | Acc: 71.056% | Acc_cls: 52.262% |Mean_iou: 0.375
+[epoch:89, iter:888] Loss: 1.120 | Acc: 67.285% | Acc_cls: 48.711% |Mean_iou: 0.369
+[epoch:89, iter:889] Loss: 1.130 | Acc: 70.324% | Acc_cls: 53.963% |Mean_iou: 0.395
+[epoch:89, iter:890] Loss: 1.166 | Acc: 58.839% | Acc_cls: 62.773% |Mean_iou: 0.238
+cost time: 6.136726
+Waiting Val...
+acc_epoch: 53.586% | acc_cls_epoch: 39.582% |mean_iou_epoch: 0.250
+
+Epoch: 90
+[epoch:90, iter:891] Loss: 1.097 | Acc: 72.075% | Acc_cls: 50.947% |Mean_iou: 0.396
+[epoch:90, iter:892] Loss: 1.119 | Acc: 71.179% | Acc_cls: 51.710% |Mean_iou: 0.393
+[epoch:90, iter:893] Loss: 1.136 | Acc: 70.490% | Acc_cls: 53.522% |Mean_iou: 0.409
+[epoch:90, iter:894] Loss: 1.133 | Acc: 71.268% | Acc_cls: 55.162% |Mean_iou: 0.349
+[epoch:90, iter:895] Loss: 1.156 | Acc: 68.217% | Acc_cls: 55.860% |Mean_iou: 0.396
+[epoch:90, iter:896] Loss: 1.160 | Acc: 71.688% | Acc_cls: 55.607% |Mean_iou: 0.423
+[epoch:90, iter:897] Loss: 1.171 | Acc: 69.213% | Acc_cls: 58.081% |Mean_iou: 0.414
+[epoch:90, iter:898] Loss: 1.162 | Acc: 72.450% | Acc_cls: 53.226% |Mean_iou: 0.361
+[epoch:90, iter:899] Loss: 1.163 | Acc: 68.324% | Acc_cls: 53.704% |Mean_iou: 0.382
+[epoch:90, iter:900] Loss: 1.207 | Acc: 52.763% | Acc_cls: 47.864% |Mean_iou: 0.276
+cost time: 6.120891
+Waiting Val...
+acc_epoch: 57.169% | acc_cls_epoch: 42.564% |mean_iou_epoch: 0.279
+save epoch 90 unet
+
+Epoch: 91
+[epoch:91, iter:901] Loss: 1.157 | Acc: 70.675% | Acc_cls: 44.656% |Mean_iou: 0.361
+[epoch:91, iter:902] Loss: 1.112 | Acc: 75.476% | Acc_cls: 58.243% |Mean_iou: 0.449
+[epoch:91, iter:903] Loss: 1.115 | Acc: 73.238% | Acc_cls: 56.225% |Mean_iou: 0.417
+[epoch:91, iter:904] Loss: 1.095 | Acc: 73.508% | Acc_cls: 48.210% |Mean_iou: 0.376
+[epoch:91, iter:905] Loss: 1.094 | Acc: 73.472% | Acc_cls: 52.543% |Mean_iou: 0.402
+[epoch:91, iter:906] Loss: 1.109 | Acc: 68.589% | Acc_cls: 55.595% |Mean_iou: 0.390
+[epoch:91, iter:907] Loss: 1.123 | Acc: 69.555% | Acc_cls: 57.939% |Mean_iou: 0.423
+[epoch:91, iter:908] Loss: 1.114 | Acc: 73.441% | Acc_cls: 54.946% |Mean_iou: 0.442
+[epoch:91, iter:909] Loss: 1.126 | Acc: 68.580% | Acc_cls: 58.765% |Mean_iou: 0.412
+[epoch:91, iter:910] Loss: 1.187 | Acc: 48.912% | Acc_cls: 45.177% |Mean_iou: 0.192
+cost time: 6.032327
+Waiting Val...
+acc_epoch: 57.040% | acc_cls_epoch: 43.502% |mean_iou_epoch: 0.280
+save epoch 91 unet
+
+Epoch: 92
+[epoch:92, iter:911] Loss: 1.117 | Acc: 71.756% | Acc_cls: 51.128% |Mean_iou: 0.400
+[epoch:92, iter:912] Loss: 1.172 | Acc: 67.702% | Acc_cls: 51.342% |Mean_iou: 0.357
+[epoch:92, iter:913] Loss: 1.141 | Acc: 72.798% | Acc_cls: 52.197% |Mean_iou: 0.340
+[epoch:92, iter:914] Loss: 1.139 | Acc: 72.224% | Acc_cls: 57.020% |Mean_iou: 0.401
+[epoch:92, iter:915] Loss: 1.114 | Acc: 76.900% | Acc_cls: 59.014% |Mean_iou: 0.494
+[epoch:92, iter:916] Loss: 1.096 | Acc: 75.902% | Acc_cls: 56.520% |Mean_iou: 0.440
+[epoch:92, iter:917] Loss: 1.096 | Acc: 71.764% | Acc_cls: 54.513% |Mean_iou: 0.373
+[epoch:92, iter:918] Loss: 1.101 | Acc: 71.369% | Acc_cls: 52.231% |Mean_iou: 0.403
+[epoch:92, iter:919] Loss: 1.111 | Acc: 69.596% | Acc_cls: 54.485% |Mean_iou: 0.389
+[epoch:92, iter:920] Loss: 1.171 | Acc: 54.089% | Acc_cls: 52.617% |Mean_iou: 0.233
+cost time: 6.148275
+Waiting Val...
+acc_epoch: 56.354% | acc_cls_epoch: 42.740% |mean_iou_epoch: 0.265
+
+Epoch: 93
+[epoch:93, iter:921] Loss: 1.165 | Acc: 72.053% | Acc_cls: 52.057% |Mean_iou: 0.378
+[epoch:93, iter:922] Loss: 1.213 | Acc: 65.813% | Acc_cls: 50.198% |Mean_iou: 0.325
+[epoch:93, iter:923] Loss: 1.205 | Acc: 68.121% | Acc_cls: 55.198% |Mean_iou: 0.387
+[epoch:93, iter:924] Loss: 1.159 | Acc: 76.568% | Acc_cls: 55.309% |Mean_iou: 0.452
+[epoch:93, iter:925] Loss: 1.144 | Acc: 72.957% | Acc_cls: 55.773% |Mean_iou: 0.438
+[epoch:93, iter:926] Loss: 1.141 | Acc: 72.262% | Acc_cls: 56.673% |Mean_iou: 0.409
+[epoch:93, iter:927] Loss: 1.131 | Acc: 73.507% | Acc_cls: 49.779% |Mean_iou: 0.386
+[epoch:93, iter:928] Loss: 1.138 | Acc: 68.218% | Acc_cls: 54.258% |Mean_iou: 0.380
+[epoch:93, iter:929] Loss: 1.130 | Acc: 74.734% | Acc_cls: 56.398% |Mean_iou: 0.429
+[epoch:93, iter:930] Loss: 1.174 | Acc: 55.445% | Acc_cls: 47.427% |Mean_iou: 0.199
+cost time: 6.040538
+Waiting Val...
+acc_epoch: 54.803% | acc_cls_epoch: 39.908% |mean_iou_epoch: 0.256
+
+Epoch: 94
+[epoch:94, iter:931] Loss: 1.051 | Acc: 72.355% | Acc_cls: 58.749% |Mean_iou: 0.462
+[epoch:94, iter:932] Loss: 1.120 | Acc: 68.203% | Acc_cls: 55.281% |Mean_iou: 0.389
+[epoch:94, iter:933] Loss: 1.109 | Acc: 72.641% | Acc_cls: 58.625% |Mean_iou: 0.419
+[epoch:94, iter:934] Loss: 1.137 | Acc: 67.645% | Acc_cls: 49.785% |Mean_iou: 0.377
+[epoch:94, iter:935] Loss: 1.128 | Acc: 72.309% | Acc_cls: 56.149% |Mean_iou: 0.421
+[epoch:94, iter:936] Loss: 1.091 | Acc: 80.156% | Acc_cls: 59.069% |Mean_iou: 0.458
+[epoch:94, iter:937] Loss: 1.091 | Acc: 73.608% | Acc_cls: 56.062% |Mean_iou: 0.404
+[epoch:94, iter:938] Loss: 1.100 | Acc: 68.530% | Acc_cls: 53.701% |Mean_iou: 0.396
+[epoch:94, iter:939] Loss: 1.113 | Acc: 69.195% | Acc_cls: 54.681% |Mean_iou: 0.359
+[epoch:94, iter:940] Loss: 1.155 | Acc: 59.388% | Acc_cls: 58.025% |Mean_iou: 0.194
+cost time: 6.033827
+Waiting Val...
+acc_epoch: 58.308% | acc_cls_epoch: 44.221% |mean_iou_epoch: 0.281
+save epoch 94 unet
+
+Epoch: 95
+[epoch:95, iter:941] Loss: 1.132 | Acc: 70.379% | Acc_cls: 57.831% |Mean_iou: 0.369
+[epoch:95, iter:942] Loss: 1.122 | Acc: 72.074% | Acc_cls: 55.798% |Mean_iou: 0.394
+[epoch:95, iter:943] Loss: 1.117 | Acc: 71.539% | Acc_cls: 53.909% |Mean_iou: 0.411
+[epoch:95, iter:944] Loss: 1.097 | Acc: 73.112% | Acc_cls: 56.845% |Mean_iou: 0.434
+[epoch:95, iter:945] Loss: 1.058 | Acc: 80.907% | Acc_cls: 57.371% |Mean_iou: 0.474
+[epoch:95, iter:946] Loss: 1.059 | Acc: 72.349% | Acc_cls: 59.307% |Mean_iou: 0.431
+[epoch:95, iter:947] Loss: 1.051 | Acc: 76.103% | Acc_cls: 62.190% |Mean_iou: 0.480
+[epoch:95, iter:948] Loss: 1.058 | Acc: 71.474% | Acc_cls: 52.703% |Mean_iou: 0.425
+[epoch:95, iter:949] Loss: 1.059 | Acc: 74.027% | Acc_cls: 56.023% |Mean_iou: 0.458
+[epoch:95, iter:950] Loss: 1.150 | Acc: 43.231% | Acc_cls: 37.733% |Mean_iou: 0.150
+cost time: 6.140809
+Waiting Val...
+acc_epoch: 56.855% | acc_cls_epoch: 43.000% |mean_iou_epoch: 0.274
+
+Epoch: 96
+[epoch:96, iter:951] Loss: 0.991 | Acc: 77.592% | Acc_cls: 63.490% |Mean_iou: 0.461
+[epoch:96, iter:952] Loss: 1.091 | Acc: 70.444% | Acc_cls: 58.862% |Mean_iou: 0.411
+[epoch:96, iter:953] Loss: 1.119 | Acc: 69.686% | Acc_cls: 50.704% |Mean_iou: 0.379
+[epoch:96, iter:954] Loss: 1.121 | Acc: 70.208% | Acc_cls: 53.752% |Mean_iou: 0.369
+[epoch:96, iter:955] Loss: 1.152 | Acc: 66.633% | Acc_cls: 52.689% |Mean_iou: 0.375
+[epoch:96, iter:956] Loss: 1.126 | Acc: 76.585% | Acc_cls: 57.322% |Mean_iou: 0.418
+[epoch:96, iter:957] Loss: 1.117 | Acc: 72.237% | Acc_cls: 52.093% |Mean_iou: 0.395
+[epoch:96, iter:958] Loss: 1.114 | Acc: 71.662% | Acc_cls: 55.708% |Mean_iou: 0.416
+[epoch:96, iter:959] Loss: 1.124 | Acc: 68.844% | Acc_cls: 59.354% |Mean_iou: 0.416
+[epoch:96, iter:960] Loss: 1.228 | Acc: 35.763% | Acc_cls: 23.822% |Mean_iou: 0.092
+cost time: 6.083284
+Waiting Val...
+acc_epoch: 57.064% | acc_cls_epoch: 43.796% |mean_iou_epoch: 0.274
+
+Epoch: 97
+[epoch:97, iter:961] Loss: 1.164 | Acc: 70.102% | Acc_cls: 60.971% |Mean_iou: 0.432
+[epoch:97, iter:962] Loss: 1.157 | Acc: 70.960% | Acc_cls: 58.036% |Mean_iou: 0.451
+[epoch:97, iter:963] Loss: 1.153 | Acc: 71.934% | Acc_cls: 57.056% |Mean_iou: 0.440
+[epoch:97, iter:964] Loss: 1.098 | Acc: 78.813% | Acc_cls: 63.590% |Mean_iou: 0.478
+[epoch:97, iter:965] Loss: 1.101 | Acc: 71.413% | Acc_cls: 54.444% |Mean_iou: 0.399
+[epoch:97, iter:966] Loss: 1.092 | Acc: 74.594% | Acc_cls: 58.120% |Mean_iou: 0.403
+[epoch:97, iter:967] Loss: 1.103 | Acc: 68.028% | Acc_cls: 53.370% |Mean_iou: 0.387
+[epoch:97, iter:968] Loss: 1.098 | Acc: 71.683% | Acc_cls: 61.029% |Mean_iou: 0.447
+[epoch:97, iter:969] Loss: 1.096 | Acc: 70.778% | Acc_cls: 55.863% |Mean_iou: 0.343
+[epoch:97, iter:970] Loss: 1.180 | Acc: 45.626% | Acc_cls: 43.850% |Mean_iou: 0.140
+cost time: 6.093886
+Waiting Val...
+acc_epoch: 56.170% | acc_cls_epoch: 42.268% |mean_iou_epoch: 0.271
+
+Epoch: 98
+[epoch:98, iter:971] Loss: 1.044 | Acc: 73.810% | Acc_cls: 63.105% |Mean_iou: 0.502
+[epoch:98, iter:972] Loss: 1.023 | Acc: 76.052% | Acc_cls: 51.850% |Mean_iou: 0.422
+[epoch:98, iter:973] Loss: 1.076 | Acc: 66.355% | Acc_cls: 55.440% |Mean_iou: 0.364
+[epoch:98, iter:974] Loss: 1.093 | Acc: 70.289% | Acc_cls: 56.818% |Mean_iou: 0.457
+[epoch:98, iter:975] Loss: 1.092 | Acc: 73.688% | Acc_cls: 53.836% |Mean_iou: 0.390
+[epoch:98, iter:976] Loss: 1.099 | Acc: 71.580% | Acc_cls: 56.823% |Mean_iou: 0.399
+[epoch:98, iter:977] Loss: 1.095 | Acc: 73.220% | Acc_cls: 53.527% |Mean_iou: 0.386
+[epoch:98, iter:978] Loss: 1.087 | Acc: 74.110% | Acc_cls: 57.971% |Mean_iou: 0.467
+[epoch:98, iter:979] Loss: 1.090 | Acc: 71.778% | Acc_cls: 54.966% |Mean_iou: 0.423
+[epoch:98, iter:980] Loss: 1.152 | Acc: 53.424% | Acc_cls: 54.929% |Mean_iou: 0.228
+cost time: 6.054546
+Waiting Val...
+acc_epoch: 58.400% | acc_cls_epoch: 43.496% |mean_iou_epoch: 0.294
+save epoch 98 unet
+
+Epoch: 99
+[epoch:99, iter:981] Loss: 1.043 | Acc: 75.127% | Acc_cls: 55.243% |Mean_iou: 0.419
+[epoch:99, iter:982] Loss: 1.027 | Acc: 75.070% | Acc_cls: 53.932% |Mean_iou: 0.398
+[epoch:99, iter:983] Loss: 1.042 | Acc: 72.765% | Acc_cls: 61.279% |Mean_iou: 0.480
+[epoch:99, iter:984] Loss: 1.028 | Acc: 75.481% | Acc_cls: 60.874% |Mean_iou: 0.464
+[epoch:99, iter:985] Loss: 1.026 | Acc: 75.225% | Acc_cls: 55.039% |Mean_iou: 0.434
+[epoch:99, iter:986] Loss: 1.025 | Acc: 73.670% | Acc_cls: 54.884% |Mean_iou: 0.416
+[epoch:99, iter:987] Loss: 1.041 | Acc: 69.498% | Acc_cls: 61.123% |Mean_iou: 0.478
+[epoch:99, iter:988] Loss: 1.045 | Acc: 71.727% | Acc_cls: 55.912% |Mean_iou: 0.384
+[epoch:99, iter:989] Loss: 1.047 | Acc: 73.930% | Acc_cls: 57.367% |Mean_iou: 0.462
+[epoch:99, iter:990] Loss: 1.089 | Acc: 55.241% | Acc_cls: 47.113% |Mean_iou: 0.183
+cost time: 6.119229
+Waiting Val...
+acc_epoch: 56.653% | acc_cls_epoch: 44.577% |mean_iou_epoch: 0.284
+
+Epoch: 100
+[epoch:100, iter:991] Loss: 1.121 | Acc: 70.055% | Acc_cls: 56.827% |Mean_iou: 0.399
+[epoch:100, iter:992] Loss: 1.153 | Acc: 69.326% | Acc_cls: 56.494% |Mean_iou: 0.434
+[epoch:100, iter:993] Loss: 1.132 | Acc: 72.793% | Acc_cls: 57.699% |Mean_iou: 0.433
+[epoch:100, iter:994] Loss: 1.092 | Acc: 75.326% | Acc_cls: 59.843% |Mean_iou: 0.447
+[epoch:100, iter:995] Loss: 1.080 | Acc: 73.861% | Acc_cls: 57.728% |Mean_iou: 0.449
+[epoch:100, iter:996] Loss: 1.073 | Acc: 73.121% | Acc_cls: 59.162% |Mean_iou: 0.453
+[epoch:100, iter:997] Loss: 1.057 | Acc: 76.683% | Acc_cls: 60.718% |Mean_iou: 0.461
+[epoch:100, iter:998] Loss: 1.048 | Acc: 76.022% | Acc_cls: 51.090% |Mean_iou: 0.392
+[epoch:100, iter:999] Loss: 1.066 | Acc: 66.881% | Acc_cls: 52.707% |Mean_iou: 0.385
+[epoch:100, iter:1000] Loss: 1.155 | Acc: 45.354% | Acc_cls: 48.345% |Mean_iou: 0.146
+cost time: 6.059066
+Waiting Val...
+acc_epoch: 58.290% | acc_cls_epoch: 45.665% |mean_iou_epoch: 0.289
